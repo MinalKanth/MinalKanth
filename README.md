@@ -51,3 +51,11 @@ Projects I’ve built and contributed to across startups, agencies, and independ
 ---
 
 ⭐ I believe great software is built at the intersection of clarity, craftsmanship, and consistency.
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MinalKanth&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MinalKanth&icon=4&color=0)](https://visitcount.itsvg.in)
