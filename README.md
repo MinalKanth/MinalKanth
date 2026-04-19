@@ -58,7 +58,7 @@ Currently **freelance / self-employed**, I partner with clients worldwide, ownin
   <!-- === PROJECT CARD 1 === -->
   <div style="border-radius: 16px; overflow: hidden; box-shadow: 0 10px 30px rgba(255,45,32,0.15); transition: all 0.4s cubic-bezier(0.4,0,0.2,1);">
     <a href="https://mrinal-devfolio.vercel.app/" target="_blank">
-      <img src="https://mrinal-devfolio.vercel.app/_next/image?url=%2Fprojects%2Fbeastierated.jpg&w=1200&q=75" alt="Beastierated" style="width: 100%; height: 220px; object-fit: cover; display: block;">
+      <img src="https://mrinal-devfolio.vercel.app//banners/beastierated_image.jpeg&w=1200&q=75" alt="Beastierated" style="width: 100%; height: 220px; object-fit: cover; display: block;">
     </a>
     <div style="padding: 20px; background: #0f0f0f;">
       <h3 style="margin: 0 0 8px; color: #FF2D20;">Beastierated</h3>
