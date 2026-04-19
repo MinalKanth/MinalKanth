@@ -2,45 +2,49 @@
 
 # 👋 Hi, I'm **Mrinal Kanth Padhi**
 
-![Typing](https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=38&color=FF2D20&center=true&vCenter=true&width=820&lines=Senior+Full-Stack+Web+Developer;Backend+Architect+%7C+Laravel+%2B+React;Building+Scalable+SaaS+%26+AI+Platforms;4%2B+Years+Crafting+Production-Grade+Systems)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?font=Inter&weight=700&size=42&color=FF2D20&center=true&vCenter=true&width=820&lines=Senior+Full-Stack+Web+Developer;Backend+Architect+%7C+Laravel+%2B+React;Building+Scalable+SaaS+%26+AI+Platforms;4%2B+Years+of+Premium+Digital+Craftsmanship;Currently+Freelance+%26+Open+to+Impactful+Projects)
 
-**🚀 Remote (Nagaon, Assam, India) | Crafting 3D-feel digital experiences**
+**🚀 Remote (Nagaon, Assam, India) • Crafting immersive, production-grade web experiences**
 
 </div>
 
 ---
 
-### ✨ **Experience the Full 3D Interactive Portfolio**
+### ✨ **Experience the Full Immersive 3D Portfolio**
 
-> **[🔥 Launch the Immersive Portfolio →](https://mrinal-devfolio.vercel.app/)**  
-> *Modern single-page design • Smooth animations • Project live demos • Skill visualizations • 15+ real-world showcases*
+> **[🔥 Launch the 3D Interactive Portfolio →](https://mrinal-devfolio.vercel.app/)**  
+> *Modern single-page design • Fluid animations • Live project demos • 3D skill spheres • Real-time previews • 20+ production showcases*
 
 ---
 
 ### 💫 About Me
 
-I don’t just code — I **architect immersive, scalable systems** that feel premium.
+I don’t just code — I **architect immersive digital systems** that feel premium, scale effortlessly, and deliver real impact.
 
 With **4+ years** as a Senior Full-Stack Web Developer, I specialize in **backend-first architecture** using **Laravel**, **Node.js**, **PHP**, and **REST APIs**, paired with stunning, responsive frontends in **React.js**, **Bootstrap**, and modern JavaScript.
 
-From **AI-powered subscription platforms** and **hybrid Laravel + WordPress** publishing engines to **real-time delivery apps**, **SSL SaaS**, and **multi-vendor eCommerce**, I’ve shipped **20+ production-grade projects** that deliver real business impact.
+I’ve shipped **20+ production-grade projects** — from **AI-powered subscription platforms** and **hybrid Laravel + WordPress** publishing engines to **real-time delivery apps**, **SSL SaaS**, **multi-vendor eCommerce**, and enterprise admin dashboards.
 
-Currently **freelance / self-employed**, I partner globally — owning projects end-to-end with obsessive focus on clean architecture, performance, security, and delightful user experiences.
+Currently **freelance / self-employed**, I collaborate with clients worldwide — owning every project end-to-end with obsessive focus on clean architecture, lightning-fast performance, bulletproof security, and delightful user experiences.
 
 **What defines my work:**
 - Production-ready, beautifully documented code
 - Scalable, future-proof architectures
-- Pixel-perfect UX with lightning-fast performance
-- Transparent collaboration & complete ownership
+- Pixel-perfect UX with 3D-like polish
+- Transparent communication & complete ownership
 
 ---
 
 ### 🌐 Connect Instantly
 
-[![🔥 Live 3D Portfolio](https://img.shields.io/badge/🔥_Immersive_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mrinal-devfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrinalkanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinalkanth)
-[![GitHub](https://img.shields.io/badge/GitHub-MinalKanth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinalKanth)
-[![Email](https://img.shields.io/badge/Email-minalkanth.9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minalkanth.9@gmail.com)
+<div align="center">
+
+[![🔥 3D Portfolio](https://img.shields.io/badge/🔥_Immersive_3D_Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000)](https://mrinal-devfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrinalkanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/mrinalkanth)
+[![GitHub](https://img.shields.io/badge/GitHub-MinalKanth-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/MinalKanth)
+[![Email](https://img.shields.io/badge/Email-minalkanth.9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:minalkanth.9@gmail.com)
+
+</div>
 
 ---
 
@@ -65,7 +69,7 @@ Currently **freelance / self-employed**, I partner globally — owning projects 
 
 </div>
 
-**Core Superpowers:** REST APIs • MVC • OOP • Real-time Systems • Payment Integrations (Razorpay, Stripe, PayPal) • Performance Optimization
+**Core Superpowers:** REST APIs • MVC • OOP • Real-time Systems • Payment Gateways (Razorpay, Stripe, PayPal) • Performance Optimization • Hybrid Architectures
 
 ---
 
@@ -73,7 +77,7 @@ Currently **freelance / self-employed**, I partner globally — owning projects 
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MinalKanth&theme=dracula&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MinalKanth&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&titleColor=FF2D20)
 
 </div>
 
@@ -98,19 +102,19 @@ Currently **freelance / self-employed**, I partner globally — owning projects 
 ### 🔥 Featured Projects  
 *(Live demos, screenshots & full details in the [3D Portfolio](https://mrinal-devfolio.vercel.app/))*
 
-- **Beastierated** — AI character-driven video subscription SaaS (Laravel)
-- **SSL Certificate Management** — Complete SaaS with React + Node.js, Razorpay & Stripe
-- **Elmo Project** — Multi-role publishing system (Laravel + WordPress hybrid)
-- **LIVRE UR** — Real-time services & delivery platform (WordPress)
-- **Logiride** — Carpooling + shipment app with live tracking (Laravel)
-- **OG Analysis** — High-traffic research platform with SEO & automation
+- **Beastierated** — AI character-driven video subscription SaaS (Laravel)  
+- **SSL Certificate Management** — Complete SaaS with React + Node.js, Razorpay & Stripe  
+- **Elmo Project** — Multi-role publishing system (Laravel + WordPress hybrid)  
+- **LIVRE UR** — Real-time services & delivery platform (WordPress)  
+- **Logiride** — Carpooling + shipment app with live tracking (Laravel)  
+- **OG Analysis** — High-traffic research platform with SEO & automation  
 - **Herbio eCommerce** • **Fitness Nexa** • **Apna Chat** • **Karjo Auto Service** + **12 more**
 
 ---
 
 ### 🎓 Education & Awards
 
-**MCA** — Assam Rajiv Gandhi University (8.6 CGPA)  
+**MCA** — Assam Rajiv Gandhi University of Cooperative Management (8.6 CGPA)  
 **BCA** — Kaliabor College, Gauhati University (7.1 CGPA)
 
 **Awards**  
@@ -123,7 +127,7 @@ Currently **freelance / self-employed**, I partner globally — owning projects 
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=FF2D20)
 ![](https://nirzak-streak-stats.vercel.app/?user=MinalKanth&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -135,8 +139,8 @@ Currently **freelance / self-employed**, I partner globally — owning projects 
 
 ⭐ **Great software is art — clarity, craftsmanship, and a touch of magic.**
 
-**Open to** remote roles, long-term collaborations, and ambitious projects.
+**Open to** remote roles, long-term collaborations, and ambitious projects that create real impact.
 
-**👉 Best way to experience it all:** [mrinal-devfolio.vercel.app](https://mrinal-devfolio.vercel.app/)
+**👉 Best way to experience the full 3D magic:** [mrinal-devfolio.vercel.app](https://mrinal-devfolio.vercel.app/)
 
 </div>
