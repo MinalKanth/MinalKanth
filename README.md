@@ -1,59 +1,141 @@
-## 👋 Hi, I'm Mrinal Kanth Padhi
+# 👋 Hi, I'm Mrinal Kanth Padhi
 
-💻 Senior Full-Stack Web Developer | Backend-Focused | Remote (India)
+**Senior Full-Stack Web Developer** | **Backend-First Architect** | **Remote (Nagaon, Assam, India)**
 
-> 🚀 Building scalable SaaS, APIs & subscription platforms with Laravel, Node.js & React
-
-# 💫 About Me:
-<br>✨ I don’t just write code — I build systems that scale, perform, and last.
-<br>I am a Senior Full-Stack Web Developer with 3+ years of experience building scalable, secure, and high-performance web applications. My core strength lies in backend-focused development, designing robust architectures and API-driven systems using Laravel, PHP, and Node.js, combined with modern frontend development using React.js, HTML, CSS, and JavaScript.<br><br>I have delivered a wide range of solutions including SaaS platforms, AI-powered systems, subscription-based applications, eCommerce platforms, and enterprise-level admin dashboards. My work often involves role-based access control, payment gateway integrations (Stripe, PayPal, Razorpay), automation workflows, and hybrid Laravel–WordPress architectures.<br><br>Currently working as a self-employed freelance developer, I collaborate with clients globally to translate business requirements into reliable technical solutions. I focus on clean code, scalable architecture, performance optimization, and long-term maintainability, ensuring every project is built to grow with the business.<br><br>I enjoy solving complex problems, taking ownership of projects end-to-end, and building systems that deliver real-world impact.<br>
-🔹 What you can expect from my work:
-- Clean, maintainable, production-ready code  
-- Scalable architectures designed for growth  
-- Strong focus on security, performance & UX  
-- Clear communication and full project ownership
-<br>⸻<br>
-
-
-
-## 🌐 Socials:
-🤝 Open to meaningful collaborations where technology meets real-world impact.
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minal_kanth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinalkanth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minalkanth9@gmail.com) 
-
-# 💻 Tech Stack & Tools I Work With Daily
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🚀 Notable Work
-Projects I’ve built and contributed to across startups, agencies, and independent clients:
-- SaaS platforms with subscriptions & access control
-- AI-driven content & chatbot systems
-- Real-time apps & API-based mobile backends
-- eCommerce & multi-vendor platforms
-- Enterprise-grade admin panels
+> 🚀 Building production-grade SaaS, AI platforms, subscription engines & enterprise systems with **Laravel + React + Node.js**
 
 ---
 
-### 🌱 Currently
-💡 Interested in challenging problems, scalable products, and long-term technical ownership.
-- Working as a **Freelance / Self-Employed Senior Full-Stack Developer**
-- Open to **remote roles, freelance projects & long-term collaborations**
+### ✨ **Live Interactive Portfolio**  
+**[🔥 Explore the Full Experience →](https://mrinal-devfolio.vercel.app/)**
+
+*Modern, smooth, fully responsive portfolio with project demos, animations, and real-time previews.*
 
 ---
 
-### 📫 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/mrinalkanthpadhi
-- 💻 GitHub: https://github.com/MinalKanth
-- 📧 Email: minalkanth.9@gmail.com
+### 💫 About Me
+
+I don’t just write code — I **architect systems that scale, perform, and endure**.
+
+With **4+ years** of professional experience as a Senior Web Developer, I specialize in **backend-first full-stack development**. I design robust, secure, and high-performance architectures using **Laravel**, **PHP**, **Node.js**, and **REST APIs**, while delivering beautiful, responsive frontends with **React.js**, **Bootstrap**, and modern JavaScript.
+
+From **AI-powered content platforms** and **hybrid Laravel + WordPress** publishing systems to **real-time delivery apps**, **SSL SaaS**, and **multi-vendor eCommerce**, I’ve shipped 20+ production projects that solve real business challenges.
+
+Currently working **freelance / self-employed**, I partner with clients worldwide — turning complex requirements into clean, maintainable, and future-proof solutions. I own projects end-to-end: architecture, development, optimization, deployment, and ongoing support.
+
+**What sets my work apart:**
+- Production-ready, well-documented code
+- Scalable, secure architectures built for growth
+- Obsessive attention to performance, UX & security
+- Crystal-clear communication & full project ownership
 
 ---
 
-⭐ I believe great software is built at the intersection of clarity, craftsmanship, and consistency.
+### 🌐 Connect With Me
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![Portfolio](https://img.shields.io/badge/🔥_Live_Portfolio-mrinal--devfolio.vercel.app-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://mrinal-devfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrinalkanth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinalkanth)
+[![GitHub](https://img.shields.io/badge/GitHub-MinalKanth-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MinalKanth)
+[![Email](https://img.shields.io/badge/Email-minalkanth.9@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minalkanth.9@gmail.com)
+
+---
+
+### 💻 Tech Stack I Ship With Daily
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-FF0000?style=for-the-badge&logo=wix&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Core Strengths:** REST APIs • MVC • OOP • AJAX • JSON • Responsive Design • Performance Optimization • Debugging • Payment Gateways (Razorpay, Stripe, PayPal)
+
+---
+
+### 🏢 Professional Experience
+
+**Freelance / Self-Employed Senior Web Developer**  
+*November 2025 – Present*  
+Building end-to-end solutions for global clients across SaaS, AI platforms, eCommerce & custom web applications.
+
+**Perfect Web Services – Mohali**  
+*April 2025 – Present*  
+Developing custom Laravel APIs, plugins, full-stack React + Node.js projects with focus on scalability and client satisfaction.
+
+**ViPrak Web Solutions – Surat, Gujarat**  
+*September 2022 – March 2025*  
+Led development of responsive websites and Laravel backends, conducted code reviews, and collaborated directly with clients.
+
+---
+
+### 🔥 Featured Projects  
+*(All live demos, screenshots & source details available in the [Interactive Portfolio](https://mrinal-devfolio.vercel.app/))*
+
+**Beastierated** — Laravel  
+AI-powered character-driven product review & video subscription platform with region-based access, affiliate system & vendor integrations.
+
+**SSL Certificate Management Platform** — Node.js + React  
+Complete SaaS for purchasing, activating, renewing & managing SSL certificates with Razorpay + Stripe payments and advanced admin panel.
+
+**Elmo Project** — Laravel + WordPress Hybrid  
+Multi-role collaborative publishing system with approval workflows, payments & automatic frontend publishing.
+
+**LIVRE UR** — WordPress  
+Full local services & delivery platform with real-time booking, payments, credit system & role-based dashboards.
+
+**Logiride** — Laravel  
+Carpooling + shipment delivery app with real-time tracking, payments & comprehensive admin APIs.
+
+**OG Analysis Research Reports** — Laravel  
+High-traffic research platform — SEO optimized, CMS overhaul & email automation.
+
+**Herbio** • **Fitness Nexa** • **Apna Chat** • **Karjo Auto Service** + 12 more production projects
+
+---
+
+### 🎓 Education
+
+- **MCA** – Assam Rajiv Gandhi University of Cooperative Management (2019 – 2022)  
+  **8.6 CGPA**
+- **BCA** – Kaliabor College, Gauhati University (2016 – 2019)  
+  **7.1 CGPA**
+
+---
+
+### 🏆 Awards & Achievements
+
+- **Oct 2025** — *The Calm in Chaos Award* – Perfect Web Services
+- **2019 – 2022** — *Innovation and Think Tank Award* – ARGUCOM
+- Certified in PHP, Android & Network Technology • Machine Learning & Cyber Security • Deep Learning Using Python
+- Presented research papers on “Smart Chair with Health Monitoring” and “Data Mining for Hygiene Products Sales”
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=MinalKanth&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+⭐ **Great software lives at the intersection of clarity, craftsmanship, and consistency.**
+
+**Open to** exciting remote opportunities, long-term collaborations, and challenging projects that create real impact.
+
+**👉 Best way to see everything in action:** [mrinal-devfolio.vercel.app](https://mrinal-devfolio.vercel.app/)
+
+Let’s build something exceptional together.
 ![](https://nirzak-streak-stats.vercel.app/?user=MinalKanth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
