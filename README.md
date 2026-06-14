@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <a href="https://github.com/MinalKanth">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2D20,100:1A1A1A&height=200&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Web%20Developer%20%E2%80%A2%20SaaS%20%26%20API%20Systems&descSize=18&descAlignY=58" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
 </a>
 
 <!-- ===================== TYPING ===================== -->
