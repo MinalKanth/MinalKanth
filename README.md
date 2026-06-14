@@ -146,3 +146,8 @@ I've shipped AI-powered SaaS platforms, hybrid Laravel + WordPress systems, real
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A1A,100:FF2D20&height=120&section=footer" alt="footer" />
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinalKanth/MinalKanth/output/snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/MinalKanth/MinalKanth/output/snake.svg" width="100%" />
+</picture>
