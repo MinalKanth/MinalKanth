@@ -5,7 +5,7 @@
 
 <!-- ───────────── HEADER BANNER ───────────── -->
 <a href="https://mrinal-devfolio.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,40:0D9488,100:2DD4BF&height=240&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%C2%B7%20PHP%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20iOS&descSize=17&descAlignY=56" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,40:0D9488,100:2DD4BF&height=240&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%C2%B7%20PHP%20%C2%B7%20React%20%C2%B7%20WordPress%20%C2%B7%20Wix&descSize=17&descAlignY=56" alt="header" />
 </a>
 
 <!-- ───────────── TYPING ANIMATION ───────────── -->
