@@ -11,7 +11,7 @@
 <!-- ───────────── TYPING ANIMATION ───────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=27&pause=1000&color=2DD4BF&center=true&vCenter=true&width=940&lines=Senior+Full-Stack+Web+Developer;Laravel+Specialist+%7C+REST+API+Architect;React+%2B+Node.js+%7C+SwiftUI+%2B+UIKit;I+ship+products%2C+not+just+commits;Backend-first.+Performance-obsessed.+Caffeine-powered.)](https://mrinal-devfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=1100&lines=Mrinal+Kanth+Padhi;Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;WordPress+%7C+Wix+%7C+Custom+Web+Applications;REST+APIs+%E2%80%A2+Admin+Panels+%E2%80%A2+SaaS+Platforms;Turning+Ideas+Into+Production-Ready+Solutions.)](https://mrinal-devfolio.vercel.app/)
 
 <!-- ───────────── STATUS BADGES ───────────── -->
 <img src="https://komarev.com/ghpvc/?username=MinalKanth&label=Profile%20Views&color=2DD4BF&style=for-the-badge&labelColor=0A0E0D" alt="profile views" />
