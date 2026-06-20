@@ -242,8 +242,6 @@ Real-time disappearing messaging app with live location sharing.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=chartreuse-dark&hide_border=true&layout=compact&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D" alt="top langs" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=MinalKanth&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" width="100%" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MinalKanth&theme=react-dark&bg_color=0A0E0D&color=2DD4BF&line=2DD4BF&point=14F195&hide_border=true" alt="activity graph" width="100%" />
 
 </div>
