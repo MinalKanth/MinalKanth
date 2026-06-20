@@ -5,7 +5,7 @@
 
 <!-- ───────────── HEADER BANNER ───────────── -->
 <a href="https://mrinal-devfolio.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,40:0D9488,100:2DD4BF&height=240&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%C2%B7%20React%20%C2%B7%20Node.js%20%C2%B7%20iOS&descSize=17&descAlignY=56" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,40:0D9488,100:2DD4BF&height=240&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%C2%B7%20PHP%20%C2%B7%20React%20%C2%B7%20Node.js&descSize=17&descAlignY=56" alt="header" />
 </a>
 
 <!-- ───────────── TYPING ANIMATION ───────────── -->
@@ -49,7 +49,7 @@ const mrinal = {
 };
 ```
 
-I'm a **backend-first full-stack developer** who ships **scalable, secure, production-grade systems** — and lately, **iOS apps too**. My happy place is **Laravel + REST APIs** wrapped in clean React frontends. My less-happy-but-still-fun place is staring at a `404` until it confesses.
+I'm a **backend-first full-stack developer** who ships **scalable, secure, production-grade systems**. My happy place is **Laravel + REST APIs** wrapped in clean React frontends. My less-happy-but-still-fun place is staring at a `404` until it confesses.
 
 Over **4+ years** I've delivered **20+ production projects** — SaaS platforms, hybrid Laravel + WordPress builds, real-time delivery & carpooling apps, an SSL certificate management SaaS, multi-vendor eCommerce, and enterprise dashboards. Currently **freelance / self-employed**, owning projects end-to-end: *discovery → architecture → deployment → "it works on prod, finally."*
 
@@ -173,7 +173,7 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
 
 ```text
 🟢  Freelance / Self-Employed — Senior Developer            Nov 2025 – Present
-    End-to-end SaaS, iOS apps & custom solutions for global clients.
+    End-to-end SaaS & custom solutions for global clients.
 
 🟢  Perfect Web Services — Mohali                           Apr 2025 – Present
     Custom Laravel APIs, full-stack React + Node.js builds & plugins.
