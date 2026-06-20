@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="160" viewBox="0 0 900 160" fill="none" role="img" aria-label="Proof: 4+ years, 20+ projects, 2 apps in build">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0E1C1A"/>
+      <stop offset="1" stop-color="#0A1413"/>
+    </linearGradient>
+  </defs>
+  <g font-family="Inter, Segoe UI, sans-serif">
+    <!-- card 1 -->
+    <rect x="10" y="14" width="282" height="132" rx="10" fill="url(#card)" stroke="#1b3a37" stroke-width="1.5"/>
+    <text x="32" y="50" font-size="12" letter-spacing="2" font-weight="700" fill="#2DD4BF">EXPERIENCE</text>
+    <text x="32" y="98" font-size="40" font-weight="800" fill="#ffffff">4+ yrs</text>
+    <text x="32" y="124" font-size="12" fill="#5fae9f">SaaS · WordPress · iOS</text>
+    <!-- card 2 -->
+    <rect x="309" y="14" width="282" height="132" rx="10" fill="url(#card)" stroke="#1b3a37" stroke-width="1.5"/>
+    <text x="331" y="50" font-size="12" letter-spacing="2" font-weight="700" fill="#2DD4BF">SHIPPED</text>
+    <text x="331" y="98" font-size="40" font-weight="800" fill="#ffffff">20+</text>
+    <text x="331" y="124" font-size="12" fill="#5fae9f">production projects, end-to-end</text>
+    <!-- card 3 -->
+    <rect x="608" y="14" width="282" height="132" rx="10" fill="url(#card)" stroke="#1b3a37" stroke-width="1.5"/>
+    <text x="630" y="50" font-size="12" letter-spacing="2" font-weight="700" fill="#2DD4BF">IN BUILD</text>
+    <text x="630" y="98" font-size="40" font-weight="800" fill="#ffffff">2 apps</text>
+    <text x="630" y="124" font-size="12" fill="#5fae9f">Wispr (iOS) · Taskvel (web)</text>
+  </g>
+</svg>

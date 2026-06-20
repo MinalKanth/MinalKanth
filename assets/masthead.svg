@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" fill="none" role="img" aria-label="Mrinal Kanth Padhi — Senior Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0E0D"/>
+      <stop offset="0.6" stop-color="#0D2826"/>
+      <stop offset="1" stop-color="#0A1F1D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#14F195"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="198" rx="13" fill="none" stroke="#1b3a37" stroke-width="2"/>
+  <!-- corner ticks -->
+  <path d="M20 20 h26 M20 20 v26" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <path d="M880 180 h-26 M880 180 v-26" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <!-- eyebrow -->
+  <text x="40" y="56" font-family="Inter, Segoe UI, sans-serif" font-size="13" letter-spacing="4" font-weight="700" fill="#2DD4BF">BUILD YOUR PRODUCT. SHIP IT. OWN IT.</text>
+  <!-- name -->
+  <text x="40" y="112" font-family="Inter, Segoe UI, sans-serif" font-size="46" font-weight="800" fill="#ffffff">MRINAL KANTH PADHI</text>
+  <!-- subtitle -->
+  <text x="42" y="148" font-family="Inter, Segoe UI, sans-serif" font-size="17" font-weight="600" fill="#9fe9dd">Senior Full-Stack Developer  ·  Laravel · React · Node.js · iOS</text>
+  <!-- tagline -->
+  <text x="42" y="176" font-family="Inter, Segoe UI, sans-serif" font-size="13" font-weight="500" fill="#5fae9f">4+ years  ·  20+ shipped  ·  Backend-first, performance-obsessed, chai-powered</text>
+</svg>
