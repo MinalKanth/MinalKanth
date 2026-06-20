@@ -282,7 +282,7 @@ Real-time disappearing messaging app with live location sharing.
 <br/>
 
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&text=How%20I%20Work&fontSize=24&fontColor=2DD4BF&fontAlignY=42&desc=the%20operating%20manual&descSize=13&descAlignY=72&descColor=9fe9dd" width="100%" alt="achievements" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&text=Achievements&fontSize=24&fontColor=2DD4BF&fontAlignY=42&desc=proof%20on%20paper&descSize=13&descAlignY=72&descColor=9fe9dd" width="100%" alt="achievements" />
 
 <table>
 <tr>
@@ -318,7 +318,7 @@ Real-time disappearing messaging app with live location sharing.
 <br/>
 
 <!-- ═══════════════ DEV PHILOSOPHY ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%72%AD%20How%20I%20Work&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=the%20operating%20manual&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="how i work" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&text=How%20I%20Work&fontSize=24&fontColor=2DD4BF&fontAlignY=42&desc=the%20operating%20manual&descSize=13&descAlignY=72&descColor=9fe9dd" width="100%" alt="how i work" />
 
 <table>
 <tr>
