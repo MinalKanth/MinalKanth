@@ -221,6 +221,11 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
   <img alt="contribution snake" src="https://raw.githubusercontent.com/MinalKanth/MinalKanth/output/snake.svg" width="100%" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinalKanth/MinalKanth/output/snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MinalKanth/MinalKanth/output/snake.svg" width="100%" />
+</picture>
+
 </div>
 
 ---
