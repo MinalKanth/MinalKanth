@@ -33,7 +33,7 @@
 <br/>
 
 <!-- ═══════════════ WHOAMI ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%A7%AC%20whoami&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=who%20is%20this%20guy%3F&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="whoami" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%A7%AC%20whoami&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=who%20is%20this%20guy%3F&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="whoami" />
 
 ```ts
 const mrinal = {
@@ -58,7 +58,7 @@ Over **4+ years** I've delivered **20+ production projects** — SaaS platforms,
 <br/>
 
 <!-- ═══════════════ CURRENTLY BUILDING ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%9B%B0%EF%B8%8F%20Currently%20Building&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=live%20from%20the%20lab&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="currently building" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%9B%B0%EF%B8%8F%20Currently%20Building&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=live%20from%20the%20lab&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="currently building" />
 
 <table>
 <tr>
@@ -98,7 +98,7 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
 <br/>
 
 <!-- ═══════════════ TECH ARSENAL ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Arsenal&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=tools%20of%20the%20trade&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="tech arsenal" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Arsenal&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="tech arsenal" />
 
 <table align="center">
 <tr>
@@ -155,7 +155,7 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
 <br/>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%94%A5%20Featured%20Projects&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=greatest%20hits&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="featured projects" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%94%A5%20Featured%20Projects&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=greatest%20hits&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="featured projects" />
 
 <table>
 <tr>
@@ -233,7 +233,7 @@ Real-time disappearing messaging app with live location sharing.
 <br/>
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=the%20receipts&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="github analytics" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=the%20receipts&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="github analytics" />
 
 <div align="center">
 
@@ -265,7 +265,7 @@ Real-time disappearing messaging app with live location sharing.
 <br/>
 
 <!-- ═══════════════ JOURNEY ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%8F%A2%20The%20Journey%20So%20Far&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=where%20I've%20been&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="journey" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%8F%A2%20The%20Journey%20So%20Far&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=where%20I've%20been&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="journey" />
 
 ```text
 🟢  Freelance / Self-Employed — Senior Developer            Nov 2025 – Present
@@ -282,7 +282,7 @@ Real-time disappearing messaging app with live location sharing.
 <br/>
 
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%8F%86%20Achievements%20%26%20Education&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=proof%20on%20paper&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="achievements" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%8F%86%20Achievements%20%26%20Education&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=proof%20on%20paper&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="achievements" />
 
 <table>
 <tr>
@@ -318,7 +318,7 @@ Real-time disappearing messaging app with live location sharing.
 <br/>
 
 <!-- ═══════════════ DEV PHILOSOPHY ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%92%AD%20How%20I%20Work&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=the%20operating%20manual&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="how i work" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%72%AD%20How%20I%20Work&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=the%20operating%20manual&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="how i work" />
 
 <table>
 <tr>
@@ -349,7 +349,7 @@ Done beats perfect. Get it live, gather feedback, then sharpen — real users te
 <br/>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=46&section=header&text=%F0%9F%8C%90%20Let's%20Connect&fontSize=22&fontColor=2DD4BF&fontAlignY=58&desc=slide%20into%20the%20inbox&descSize=12&descAlignY=92&descColor=9fe9dd" width="100%" alt="connect" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%8C%90%20Let's%20Connect&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=slide%20into%20the%20inbox&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="connect" />
 
 <div align="center">
 
