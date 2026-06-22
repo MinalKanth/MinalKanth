@@ -17,9 +17,7 @@
 <h3 align="center">A passionate Senior Full-Stack Developer from Assam, India 🇮🇳</h3>
 
 <!-- ───────────── CODING GIF (side, Rishav-style) ───────────── -->
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</p>
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <!-- ───────────── TYPING ANIMATION ───────────── -->
 <div align="center">
@@ -44,6 +42,8 @@
 - 📫 How to reach me **minalkanth.9@gmail.com**
 
 - ⚡ Fun fact **I talk to rubber ducks — they debug better than Stack Overflow** 🦆
+
+<br clear="all"/>
 
 <!-- ───────────── QUICK STATS ───────────── -->
 <div align="center">
@@ -122,7 +122,7 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
 <br/>
 
 <!-- ═══════════════ LANGUAGES & TOOLS (Devicon icons, Rishav-style) ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Languages%20%26%20Tools&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="languages and tools" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=Languages%20and%20Tools&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="languages and tools" />
 
 <p align="center">
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/></a>&nbsp;&nbsp;
@@ -237,7 +237,7 @@ Real-time disappearing messaging app with live location sharing.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=chartreuse-dark&hide_border=true&show_icons=true&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D&icon_color=2DD4BF" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=chartreuse-dark&hide_border=true&show_icons=true&rank_icon=percentile&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D&icon_color=2DD4BF" alt="stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MinalKanth&theme=chartreuse-dark&hide_border=true&background=0A0E0D&stroke=2DD4BF&ring=2DD4BF&fire=14F195&currStreakLabel=FFFFFF" alt="streak" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=chartreuse-dark&hide_border=true&layout=compact&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D" alt="top langs" />
