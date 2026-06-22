@@ -30,9 +30,9 @@
 </div>
 
 <!-- ───────────── ABOUT ME BULLETS (Rishav-style) ───────────── -->
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="68%" valign="top">
+<td width="75%" valign="top">
 
 - 🛰️ I’m currently building **Wispr (iOS + Laravel 12)** and **Taskvel (Web)**
 
@@ -45,11 +45,11 @@
 - ⚡ Fun fact **I talk to rubber ducks — they debug better than Stack Overflow** 🦆
 
 </td>
+<td width="25%" align="center" valign="middle">
 
-<td width="32%" align="center">
 <!-- ───────────── CODING GIF (right side) ───────────── -->
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="220"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="180"/>
 
 </td>
 </tr>
