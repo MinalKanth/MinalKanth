@@ -16,9 +16,6 @@
 <h1 align="center">Hi 👋, I'm Mrinal Kanth Padhi</h1>
 <h3 align="center">A passionate Senior Full-Stack Developer from Assam, India 🇮🇳</h3>
 
-<!-- ───────────── CODING GIF (right side) ───────────── -->
-<img align="right" alt="Coding" width="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 <!-- ───────────── TYPING ANIMATION ───────────── -->
 <div align="center">
 
@@ -50,6 +47,7 @@
 </td>
 
 <td width="32%" align="center">
+<!-- ───────────── CODING GIF (right side) ───────────── -->
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="220"/>
 
