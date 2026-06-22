@@ -39,7 +39,7 @@
 
 - 🌱 I’m always sharpening **scalable backend architecture & clean React frontends**
 
-- 💬 Ask me about **Laravel · PHP · Node.js · React · Swift · MySQL · REST APIs**
+- 💬 Ask me about **Laravel · PHP · Node.js · React · MySQL · REST APIs**
 
 - 📫 How to reach me **minalkanth.9@gmail.com**
 
@@ -77,7 +77,7 @@ const mrinal = {
   role:      "Senior Full-Stack Developer",
   location:  "Assam, India 🇮🇳 — Remote Worldwide",
   building:  ["Wispr (iOS + Laravel)", "Taskvel (Web)"],
-  stack:     ["Laravel", "PHP", "Node.js", "React", "Swift", "MySQL"],
+  stack:     ["Laravel", "PHP", "Node.js", "React", "MySQL"],
   focus:     ["Backend-First Architecture", "Scalable APIs", "Clean UX"],
   mindset:   "Performance, security & business impact over hype",
   funFact:   "Talks to rubber ducks. They debug better than Stack Overflow.",
@@ -143,7 +143,6 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></a>
 </p>
