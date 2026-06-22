@@ -33,6 +33,10 @@
 </div>
 
 <!-- ───────────── ABOUT ME BULLETS (Rishav-style) ───────────── -->
+<table>
+<tr>
+<td width="68%" valign="top">
+
 - 🛰️ I’m currently building **Wispr (iOS + Laravel 12)** and **Taskvel (Web)**
 
 - 🌱 I’m always sharpening **scalable backend architecture & clean React frontends**
@@ -42,6 +46,16 @@
 - 📫 How to reach me **minalkanth.9@gmail.com**
 
 - ⚡ Fun fact **I talk to rubber ducks — they debug better than Stack Overflow** 🦆
+
+</td>
+
+<td width="32%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 
 <br clear="all"/>
 
