@@ -28,6 +28,7 @@
 <img src="https://img.shields.io/badge/Powered%20by-Chai%20%26%20Commits-FF6C37?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0A0E0D" alt="chai" />
 
 </div>
+</br>
 
 <!-- ───────────── ABOUT ME BULLETS (Rishav-style) ───────────── -->
 <table align="center" width="100%">
