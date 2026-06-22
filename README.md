@@ -250,43 +250,11 @@ Real-time disappearing messaging app with live location sharing.
 
 <div align="center">
 
-<!-- Stats card with LETTER GRADE restored (rank_icon=default) + all commits counted -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=chartreuse-dark&hide_border=true&show_icons=true&rank_icon=default&include_all_commits=true&count_private=true&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D&icon_color=2DD4BF" alt="stats" />
+<!-- Stats card — letter grade (rank_icon=default), public commits only so it loads reliably -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=chartreuse-dark&hide_border=true&show_icons=true&rank_icon=default&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D&icon_color=2DD4BF" alt="stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MinalKanth&theme=chartreuse-dark&hide_border=true&background=0A0E0D&stroke=2DD4BF&ring=2DD4BF&fire=14F195&currStreakLabel=FFFFFF" alt="streak" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D" alt="top langs" />
-
-</div>
-
-<br/>
-
-<!-- ───── TROPHY CASE ───── -->
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MinalKanth&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ───── PROFILE SUMMARY CARDS ───── -->
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinalKanth&theme=2077" width="100%" alt="profile summary" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinalKanth&theme=2077" width="49%" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinalKanth&theme=2077" width="49%" alt="most commit language" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinalKanth&theme=2077" width="49%" alt="stats summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinalKanth&theme=2077&utcOffset=5.5" width="49%" alt="productive time" />
 
 </div>
 
