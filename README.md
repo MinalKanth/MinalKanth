@@ -266,6 +266,40 @@ Real-time disappearing messaging app with live location sharing.
 
 </div>
 
+
+
+
+
+<br/>
+
+<!-- ───── COLORFUL PROFILE SUMMARY CARDS (2077 theme) ───── -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinalKanth&theme=2077" width="100%" alt="profile summary" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinalKanth&theme=2077" width="49%" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinalKanth&theme=2077" width="49%" alt="most commit language" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinalKanth&theme=2077" width="49%" alt="stats summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinalKanth&theme=2077&utcOffset=5.5" width="49%" alt="productive time" />
+
+</div>
+
+
+
+
+
+
+
+
 <br/>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
