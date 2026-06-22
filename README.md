@@ -1,17 +1,30 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     MRINAL KANTH PADHI · README v4.0
+     MRINAL KANTH PADHI · README v5.0
      "Ek developer, infinite bugs ka dushman" 🐛⚔️
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ───────────── HEADER BANNER ───────────── -->
+<!-- ───────────── MASTERHEAD CODING BANNER ───────────── -->
 <a href="https://mrinal-devfolio.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,40:0D9488,100:2DD4BF&height=240&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%C2%B7%20PHP%20%C2%B7%20React%20%C2%B7%20WordPress%20%C2%B7%20Wix&descSize=17&descAlignY=56" alt="header" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" alt="" />
 </a>
+
+<a href="https://mrinal-devfolio.vercel.app/">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,40:0D9488,100:2DD4BF&height=240&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%C2%B7%20PHP%20%C2%B7%20React%20%C2%B7%20Swift%20%C2%B7%20Node.js&descSize=17&descAlignY=56" alt="header" />
+</a>
+
+<!-- ───────────── HI, I'M ... ───────────── -->
+<h1 align="center">Hi 👋, I'm Mrinal Kanth Padhi</h1>
+<h3 align="center">A passionate Senior Full-Stack Developer from Assam, India 🇮🇳</h3>
+
+<!-- ───────────── CODING GIF (side, Rishav-style) ───────────── -->
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
 
 <!-- ───────────── TYPING ANIMATION ───────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=1100&lines=Mrinal+Kanth+Padhi;Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;WordPress+%7C+Wix+%7C+Custom+Web+Applications;REST+APIs+%E2%80%A2+Admin+Panels+%E2%80%A2+SaaS+Platforms;Turning+Ideas+Into+Production-Ready+Solutions.)](https://mrinal-devfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=1100&lines=Mrinal+Kanth+Padhi;Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;Swift+%7C+iOS+%7C+Custom+Web+Applications;REST+APIs+%E2%80%A2+Admin+Panels+%E2%80%A2+SaaS+Platforms;Turning+Ideas+Into+Production-Ready+Solutions.)](https://mrinal-devfolio.vercel.app/)
 
 <!-- ───────────── STATUS BADGES ───────────── -->
 <img src="https://komarev.com/ghpvc/?username=MinalKanth&label=Profile%20Views&color=2DD4BF&style=for-the-badge&labelColor=0A0E0D" alt="profile views" />
@@ -20,6 +33,17 @@
 <img src="https://img.shields.io/badge/Powered%20by-Chai%20%26%20Commits-FF6C37?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0A0E0D" alt="chai" />
 
 </div>
+
+<!-- ───────────── ABOUT ME BULLETS (Rishav-style) ───────────── -->
+- 🛰️ I’m currently building **Wispr (iOS + Laravel 12)** and **Taskvel (Web)**
+
+- 🌱 I’m always sharpening **scalable backend architecture & clean React frontends**
+
+- 💬 Ask me about **Laravel · PHP · Node.js · React · Swift · MySQL · REST APIs**
+
+- 📫 How to reach me **minalkanth.9@gmail.com**
+
+- ⚡ Fun fact **I talk to rubber ducks — they debug better than Stack Overflow** 🦆
 
 <!-- ───────────── QUICK STATS ───────────── -->
 <div align="center">
@@ -97,54 +121,30 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
 
 <br/>
 
-<!-- ═══════════════ TECH ARSENAL ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Arsenal&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="tech arsenal" />
+<!-- ═══════════════ LANGUAGES & TOOLS (Devicon icons, Rishav-style) ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Languages%20%26%20Tools&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="languages and tools" />
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
+<p align="center">
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://developer.apple.com/swift/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></a>
+</p>
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**Mobile**
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066FF?style=flat-square&logo=swift&logoColor=white)
-
-</td>
-<td align="center" width="25%">
-
-**Data & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://developer.apple.com/ios/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="48" height="48"/></a>
+</p>
 
 <div align="center">
 
