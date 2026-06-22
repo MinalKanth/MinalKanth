@@ -85,7 +85,7 @@ const mrinal = {
 };
 ```
 
-I'm a **backend-first full-stack developer** who ships **scalable, secure, production-grade systems** — and lately, **iOS apps too**. My happy place is **Laravel + REST APIs** wrapped in clean React frontends. My less-happy-but-still-fun place is staring at a `404` until it confesses.
+I'm a **backend-first full-stack developer** who ships **scalable, secure, production-grade systems**. My happy place is **Laravel + REST APIs** wrapped in clean React frontends. My less-happy-but-still-fun place is staring at a `404` until it confesses.
 
 Over **4+ years** I've delivered **20+ production projects** — SaaS platforms, hybrid Laravel + WordPress builds, real-time delivery & carpooling apps, an SSL certificate management SaaS, multi-vendor eCommerce, and enterprise dashboards. Currently **freelance / self-employed**, owning projects end-to-end: *discovery → architecture → deployment → "it works on prod, finally."*
 
@@ -155,8 +155,7 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://developer.apple.com/ios/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="48" height="48"/></a>
+  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/></a>
 </p>
 
 <div align="center">
@@ -321,7 +320,7 @@ Real-time disappearing messaging app with live location sharing.
 
 ```text
 🟢  Freelance / Self-Employed — Senior Developer            Nov 2025 – Present
-    End-to-end SaaS, iOS apps & custom solutions for global clients.
+    End-to-end SaaS & custom solutions for global clients.
 
 🟢  Perfect Web Services — Mohali                           Apr 2025 – Present
     Custom Laravel APIs, full-stack React + Node.js builds & plugins.
