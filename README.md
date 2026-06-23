@@ -16,10 +16,39 @@
 <h1 align="center">Hi 👋, I'm Mrinal Kanth Padhi</h1>
 <h3 align="center">A passionate Senior Full-Stack Developer from Assam, India 🇮🇳</h3>
 
+<p align="center">
+
+📧 minalkanth.9@gmail.com &nbsp;|&nbsp;
+
+[![Phone](https://img.shields.io/badge/Phone-%2B91%209678001910-2DD4BF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0E0D)](tel:+919678001910)
+
+📱 +91 9678001910 &nbsp;|&nbsp;
+
+🌐 https://mrinal-devfolio.vercel.app
+
+</p>
+
 <!-- ───────────── TYPING ANIMATION ───────────── -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=1100&lines=Mrinal+Kanth+Padhi;Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;WordPress+%7C+Laravel+%7C+Custom+Web+Applications;REST+APIs+%E2%80%A2+Admin+Panels+%E2%80%A2+SaaS+Platforms;Turning+Ideas+Into+Production-Ready+Solutions.)](https://mrinal-devfolio.vercel.app/)
+
+ ### 🎯 [**View My Live 3D Portfolio →**](https://mrinal-devfolio.vercel.app/)
+ *Interactive 3D experience • GSAP animations • Full case studies*
+
+<img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-14F195?style=for-the-badge&labelColor=0A0E0D" />
+
+## 📬 Contact Me
+
+📧 Email: minalkanth.9@gmail.com
+
+📱 Phone: +91 9678001910
+
+💼 LinkedIn: linkedin.com/in/mrinalkanthpadhi
+
+🌐 Portfolio: mrinal-devfolio.vercel.app
+
+📍 Assam, India (Open Worldwide)
 
 <!-- ───────────── STATUS BADGES ───────────── -->
 <img src="https://komarev.com/ghpvc/?username=MinalKanth&label=Profile%20Views&color=2DD4BF&style=for-the-badge&labelColor=0A0E0D" alt="profile views" />
@@ -43,7 +72,7 @@
 
 - 📫 How to reach me **minalkanth.9@gmail.com**
 
-- ⚡ Fun fact **I talk to rubber ducks — they debug better than Stack Overflow** 🦆
+- ⚡ Passionate about turning complex business requirements into scalable software solutions.
 
 </td>
 <td width="25%" align="center" valign="middle">
@@ -63,7 +92,7 @@
 
 | 🚀 Experience | 📦 Shipped | ⚙️ Tech Mastered | 🌍 Mode | ☕ Bugs Squashed |
 |:---:|:---:|:---:|:---:|:---:|
-| **4+ Years** | **20+ Projects** | **12+** | **Remote / Freelance** | **∞ (and counting)** |
+| **3.6+ Years** | **20+ Projects** | **12+** | **Remote / Freelance** | **∞ (and counting)** |
 
 </div>
 
@@ -76,7 +105,7 @@
 const mrinal = {
   role:      "Senior Full-Stack Developer",
   location:  "Assam, India 🇮🇳 — Remote Worldwide",
-  building:  ["Wispr (iOS + Laravel)", "Taskvel (Web)"],
+  currentlyFocusedOn: ["AI Products", "SaaS Platforms", "Api's for Mobile Apps"],
   stack:     ["Laravel", "PHP", "Node.js", "React", "MySQL"],
   focus:     ["Backend-First Architecture", "Scalable APIs", "Clean UX"],
   mindset:   "Performance, security & business impact over hype",
@@ -87,10 +116,7 @@ const mrinal = {
 
 I'm a **backend-first full-stack developer** who ships **scalable, secure, production-grade systems**. My happy place is **Laravel + REST APIs** wrapped in clean React frontends. My less-happy-but-still-fun place is staring at a `404` until it confesses.
 
-Over **4+ years** I've delivered **20+ production projects** — SaaS platforms, hybrid Laravel + WordPress builds, real-time delivery & carpooling apps, an SSL certificate management SaaS, multi-vendor eCommerce, and enterprise dashboards. Currently **freelance / self-employed**, owning projects end-to-end: *discovery → architecture → deployment → "it works on prod, finally."*
-
-> ### 🎯 [**View My Live 3D Portfolio →**](https://mrinal-devfolio.vercel.app/)
-> *Interactive 3D experience • GSAP animations • Full case studies*
+Over **3.6+ years** I've delivered **20+ production projects** — SaaS platforms, hybrid Laravel + WordPress builds, real-time delivery & carpooling apps, an SSL certificate management SaaS, multi-vendor eCommerce, and enterprise dashboards. Currently **freelance / self-employed**, owning projects end-to-end: *discovery → architecture → deployment → "it works on prod, finally."*
 
 <br/>
 
