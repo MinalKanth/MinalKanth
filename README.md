@@ -432,9 +432,9 @@ Real-time disappearing messaging app with live location sharing.
 
 **🏅 Awards & Research**
 
-🥇 The Calm in Chaos Award — Perfect Web Services *(Oct 2025)*
-🌟 Innovation & Think Tank Award — ARGUCOM *(2019–2022)*
-📝 Published: *Smart Chair with Health Monitoring*
+🥇 The Calm in Chaos Award — Perfect Web Services *(Oct 2025)* </br>
+🌟 Innovation & Think Tank Award — ARGUCOM *(2019–2022)* </br>
+📝 Published: *Smart Chair with Health Monitoring* </br>
 📝 Published: *Data Mining for MSME Sales*
 
 </td>
@@ -442,9 +442,9 @@ Real-time disappearing messaging app with live location sharing.
 
 **🎓 Education & Certs**
 
-🎓 **MCA** — Assam Rajiv Gandhi University *(8.6 CGPA)*
-🎓 **BCA** — Gauhati University *(7.1 CGPA)*
-📜 PHP · Android · Machine Learning
+🎓 **MCA** — Assam Rajiv Gandhi University *(8.6 CGPA)* </br>
+🎓 **BCA** — Gauhati University *(7.1 CGPA)* </br>
+📜 PHP · Android · Machine Learning </br>
 📜 Cyber Security · Deep Learning
 
 </td>
