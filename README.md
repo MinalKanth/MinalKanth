@@ -477,18 +477,6 @@ Done beats perfect. Get it live, gather feedback, then sharpen — real users te
 
 <br/>
 
-<!-- ═══════════════ CONNECT ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%8C%90%20Let's%20Connect&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=slide%20into%20the%20inbox&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="connect" />
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0E0D)](https://mrinal-devfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E0D)](https://www.linkedin.com/in/mrinalkanthpadhi)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E0D)](mailto:minalkanth.9@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0A0E0D)](https://instagram.com/minal_kanth)
-
-</div>
-
 ---
 
 <div align="center">
