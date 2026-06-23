@@ -14,90 +14,127 @@
 
 
 <!-- ───────────── HI, I'M ... ───────────── -->
-<h1 align="center">Hi 👋, I'm Mrinal Kanth Padhi</h1>
-<h3 align="center">Senior Full-Stack Developer • Laravel • PHP • React • WordPress • Node.js</h3>
+<!-- ───────────── HERO SECTION ───────────── -->
 
-<!-- ───────────── CONTACT BADGES ───────────── -->
+<div align="center">
+
+# Senior Full-Stack Developer
+
+### Laravel • PHP • React • WordPress • Node.js
+
+</div>
+
+<br>
+
+<!-- ───────────── CONTACT ROW ───────────── -->
+
 <div align="center">
 
 <a href="mailto:minalkanth.9@gmail.com">
-<img src="https://img.shields.io/badge/Email-minalkanth.9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E0D" />
+<img src="https://img.shields.io/badge/📧_EMAIL-minalkanth.9@gmail.com-EA4335?style=for-the-badge&labelColor=0A0E0D"/>
 </a>
 
 <a href="tel:+919678001910">
-<img src="https://img.shields.io/badge/Phone-%2B91%209678001910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0E0D" />
+<img src="https://img.shields.io/badge/📱_PHONE-%2B91_9678001910-25D366?style=for-the-badge&labelColor=0A0E0D"/>
 </a>
 
 <a href="https://mrinal-devfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Live%20Website-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0E0D" />
+<img src="https://img.shields.io/badge/▲_PORTFOLIO-LIVE_WEBSITE-2DD4BF?style=for-the-badge&labelColor=0A0E0D"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mrinalkanthpadhi">
-<img src="https://img.shields.io/badge/LinkedIn-Mrinal%20Kanth%20Padhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E0D" />
+<a href="https://linkedin.com/in/mrinalkanthpadhi">
+<img src="https://img.shields.io/badge/LinkedIn-Mrinal_Kanth_Padhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E0D"/>
 </a>
 
 </div>
 
 <br>
 
-<!-- ───────────── TYPING ANIMATION ───────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=1100&lines=Mrinal+Kanth+Padhi;Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;WordPress+%7C+Wix+%7C+Custom+Web+Applications;REST+APIs+%E2%80%A2+Admin+Panels+%E2%80%A2+SaaS+Platforms;Turning+Ideas+Into+Production-Ready+Solutions.)](https://mrinal-devfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=42&pause=1000&color=2DD4BF&center=true&vCenter=true&width=1200&height=80&lines=Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;Building+Scalable+Software+Solutions)](https://mrinal-devfolio.vercel.app)
 
 </div>
 
 <br>
 
-<!-- ───────────── FEATURED CTA ───────────── -->
 <div align="center">
 
-### 🚀 Available for Remote Jobs, Freelance Projects & Long-Term Collaborations
+## 🚀 Available for Remote Jobs, Freelance Projects & Long-Term Collaborations
 
 <a href="https://mrinal-devfolio.vercel.app">
-<img src="https://img.shields.io/badge/🎯_Explore_My_Portfolio-Visit_Now-2DD4BF?style=for-the-badge&labelColor=0A0E0D" />
+<img src="https://img.shields.io/badge/🎯_EXPLORE_MY_PORTFOLIO-VISIT_NOW-2DD4BF?style=for-the-badge&labelColor=0A0E0D"/>
 </a>
 
 <a href="mailto:minalkanth.9@gmail.com">
-<img src="https://img.shields.io/badge/📬_Let's_Work_Together-Contact_Me-14F195?style=for-the-badge&labelColor=0A0E0D" />
+<img src="https://img.shields.io/badge/🤝_LET'S_WORK_TOGETHER-CONTACT_ME-14F195?style=for-the-badge&labelColor=0A0E0D"/>
 </a>
 
 </div>
 
 <br>
 
-<!-- ───────────── STATUS BADGES ───────────── -->
-<img src="https://komarev.com/ghpvc/?username=MinalKanth&label=Profile%20Views&color=2DD4BF&style=for-the-badge&labelColor=0A0E0D" alt="profile views" />
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Work-14F195?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0A0E0D" alt="open to work" />
-<img src="https://img.shields.io/badge/Based%20in-Assam,%20India-2DD4BF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0A0E0D" alt="location" />
-<img src="https://img.shields.io/badge/Powered%20by-Chai%20%26%20Commits-FF6C37?style=for-the-badge&logo=buymeacoffee&logoColor=white&labelColor=0A0E0D" alt="chai" />
+<!-- ───────────── STATUS CARDS ───────────── -->
 
-</div>
-</br>
+<table align="center">
+<tr>
 
-<!-- ───────────── ABOUT ME BULLETS (Rishav-style) ───────────── -->
+<td align="center">
+<img src="https://img.shields.io/badge/👁️_PROFILE_VIEWS-2000+-2DD4BF?style=for-the-badge&labelColor=0A0E0D"/>
+<br>
+<sub>Thanks for stopping by!</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/💼_OPEN_TO-REMOTE_WORK-14F195?style=for-the-badge&labelColor=0A0E0D"/>
+<br>
+<sub>Worldwide Opportunities</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/📍_BASED_IN-ASSAM,_INDIA-3B82F6?style=for-the-badge&labelColor=0A0E0D"/>
+<br>
+<sub>Open to work globally</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/☕_POWERED_BY-CHAI_&_COMMITS-FF8C42?style=for-the-badge&labelColor=0A0E0D"/>
+<br>
+<sub>Fueling ideas since day one</sub>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ───────────── ABOUT ME ───────────── -->
+
 <table align="center" width="100%">
 <tr>
-<td width="75%" valign="top">
 
-- 🛰️ I’m currently building **Wispr (iOS + Laravel 12)** and **Taskvel (Web)**
+<td width="65%" valign="top">
 
-- 🌱 I’m always sharpening **scalable backend architecture & clean React frontends**
+### 🚀 About Me
 
-- 💬 Ask me about **Laravel · PHP · Node.js · React · MySQL · REST APIs**
+- 🎙️ Currently building **Wispr (iOS + Laravel 12)** and **Taskvel (Web)**
 
-- 📫 How to reach me **minalkanth.9@gmail.com**
+- 🌱 Sharpening **scalable backend architecture & clean React frontends**
 
-- ⚡ Passionate about turning complex business requirements into scalable software solutions.
+- 💬 Ask me about **Laravel • PHP • Node.js • React • MySQL • REST APIs**
 
-</td>
-<td width="25%" align="center" valign="middle">
+- 📫 Reach me at **minalkanth.9@gmail.com**
 
-<!-- ───────────── CODING GIF (right side) ───────────── -->
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="180"/>
+- ⚡ Passionate about turning complex business requirements into scalable software solutions
 
 </td>
+
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
+
+</td>
+
 </tr>
 </table>
 
