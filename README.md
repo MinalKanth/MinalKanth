@@ -12,43 +12,59 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,40:0D9488,100:2DD4BF&height=240&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%C2%B7%20PHP%20%C2%B7%20React%20%C2%B7%20Swift%20%C2%B7%20Node.js&descSize=17&descAlignY=56" alt="header" />
 </a>
 
+
 <!-- ───────────── HI, I'M ... ───────────── -->
 <h1 align="center">Hi 👋, I'm Mrinal Kanth Padhi</h1>
-<h3 align="center">A passionate Senior Full-Stack Developer from Assam, India 🇮🇳</h3>
+<h3 align="center">Senior Full-Stack Developer • Laravel • PHP • React • WordPress • Node.js</h3>
 
-<p align="center">
+<!-- ───────────── CONTACT BADGES ───────────── -->
+<div align="center">
 
-📧 minalkanth.9@gmail.com &nbsp;|&nbsp;
+<a href="mailto:minalkanth.9@gmail.com">
+<img src="https://img.shields.io/badge/Email-minalkanth.9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0E0D" />
+</a>
 
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209678001910-2DD4BF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0E0D)](tel:+919678001910)
+<a href="tel:+919678001910">
+<img src="https://img.shields.io/badge/Phone-%2B91%209678001910-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0A0E0D" />
+</a>
 
-📱 +91 9678001910 &nbsp;|&nbsp;
+<a href="https://mrinal-devfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Website-2DD4BF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0A0E0D" />
+</a>
 
-🌐 https://mrinal-devfolio.vercel.app
+<a href="https://www.linkedin.com/in/mrinalkanthpadhi">
+<img src="https://img.shields.io/badge/LinkedIn-Mrinal%20Kanth%20Padhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E0D" />
+</a>
 
-</p>
+</div>
+
+<br>
 
 <!-- ───────────── TYPING ANIMATION ───────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=1100&lines=Mrinal+Kanth+Padhi;Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;WordPress+%7C+Laravel+%7C+Custom+Web+Applications;REST+APIs+%E2%80%A2+Admin+Panels+%E2%80%A2+SaaS+Platforms;Turning+Ideas+Into+Production-Ready+Solutions.)](https://mrinal-devfolio.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=28&pause=1200&color=2DD4BF&center=true&vCenter=true&width=1100&lines=Mrinal+Kanth+Padhi;Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;WordPress+%7C+Wix+%7C+Custom+Web+Applications;REST+APIs+%E2%80%A2+Admin+Panels+%E2%80%A2+SaaS+Platforms;Turning+Ideas+Into+Production-Ready+Solutions.)](https://mrinal-devfolio.vercel.app/)
 
- ### 🎯 [**View My Live 3D Portfolio →**](https://mrinal-devfolio.vercel.app/)
- *Interactive 3D experience • GSAP animations • Full case studies*
+</div>
 
-<img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-14F195?style=for-the-badge&labelColor=0A0E0D" />
+<br>
 
-## 📬 Contact Me
+<!-- ───────────── FEATURED CTA ───────────── -->
+<div align="center">
 
-📧 Email: minalkanth.9@gmail.com
+### 🚀 Available for Remote Jobs, Freelance Projects & Long-Term Collaborations
 
-📱 Phone: +91 9678001910
+<a href="https://mrinal-devfolio.vercel.app">
+<img src="https://img.shields.io/badge/🎯_Explore_My_Portfolio-Visit_Now-2DD4BF?style=for-the-badge&labelColor=0A0E0D" />
+</a>
 
-💼 LinkedIn: linkedin.com/in/mrinalkanthpadhi
+<a href="mailto:minalkanth.9@gmail.com">
+<img src="https://img.shields.io/badge/📬_Let's_Work_Together-Contact_Me-14F195?style=for-the-badge&labelColor=0A0E0D" />
+</a>
 
-🌐 Portfolio: mrinal-devfolio.vercel.app
+</div>
 
-📍 Assam, India (Open Worldwide)
+<br>
 
 <!-- ───────────── STATUS BADGES ───────────── -->
 <img src="https://komarev.com/ghpvc/?username=MinalKanth&label=Profile%20Views&color=2DD4BF&style=for-the-badge&labelColor=0A0E0D" alt="profile views" />
