@@ -117,7 +117,7 @@
 
 ### 🚀 About Me
 
-- 🎙️ Currently building **Wispr (iOS + Laravel 12)** and **Taskvel (Web)**
+- 🎙️ Currently building **[Wispr](https://tawoma.or.tz/minal)** and **[Taskvel](https://taskvel.netlify.app/)**
 
 - 🌱 Sharpening **scalable backend architecture & clean React frontends**
 
@@ -158,7 +158,11 @@
 const mrinal = {
   role:      "Senior Full-Stack Developer",
   location:  "Assam, India 🇮🇳 — Remote Worldwide",
-  currentlyFocusedOn: ["AI Products", "SaaS Platforms", "Api's for Mobile Apps"],
+  currentlyFocusedOn: [
+       "Wispr → https://tawoma.or.tz/minal",
+       "Taskvel → https://taskvel.netlify.app/",
+       "APIs for Mobile Apps"
+  ],
   stack:     ["Laravel", "PHP", "Node.js", "React", "MySQL"],
   focus:     ["Backend-First Architecture", "Scalable APIs", "Clean UX"],
   mindset:   "Performance, security & business impact over hype",
@@ -180,7 +184,7 @@ Over **3.6+ years** I've delivered **20+ production projects** — SaaS platform
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Wispr
+### 🎙️ [Wispr](https://tawoma.or.tz/minal)
 **Voice-first wishlist & dream-sharing app**
 
 Speak your wishes — Wispr captures them. A native **iOS app (Swift / UIKit)** on a **Laravel 12** backend with Firebase UID + Sanctum auth, full wish CRUD, image uploads & profile management. Designed with the in-house **Aura Design System** 🌅
@@ -190,12 +194,14 @@ Speak your wishes — Wispr captures them. A native **iOS app (Swift / UIKit)** 
 ![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 
+[🌐 Live Demo →](https://tawoma.or.tz/minal)
+
 `🟢 In active development`
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ Taskvel
+### ✅ [Taskvel](https://taskvel.netlify.app/)
 **Premium task organiser + Pomodoro timer**
 
 A polished, single-file productivity app with a clean four-accent theme and a built-in focus timer. Built for people who plan in tabs and live in to-do lists. Heading to the **App Store & Play Store**. 🚀
@@ -204,6 +210,8 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+[🌐 Live Demo →](https://taskvel.netlify.app/)
 
 `🚀 Launch-ready`
 
@@ -251,15 +259,20 @@ A polished, single-file productivity app with a clean four-accent theme and a bu
 <tr>
 <td width="50%" valign="top">
 
-#### 🎙️ Wispr
+#### 🎙️ [Wispr](https://tawoma.or.tz/minal)
+
 Voice-first wishlist app — speak your dreams, Wispr remembers.
+
+🌐 **Live:** https://tawoma.or.tz/minal
+
 `Swift` · `Laravel 12` · `Firebase`
 
 </td>
 <td width="50%" valign="top">
 
-#### ✅ Taskvel
+### ✅ [Taskvel](https://taskvel.netlify.app/)
 Premium task organiser with a built-in Pomodoro focus timer.
+🌐 **Live:** https://taskvel.netlify.app/
 `JS` · `Netlify`
 
 </td>
