@@ -5,7 +5,7 @@
 
 <!-- ─────────── ANIMATED HEADER ─────────── -->
 <a href="https://mrinal-devfolio.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,30:0D9488,70:6d5efc,100:a06dfc&height=260&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20ERP%20Architect%20%E2%80%A2%20iOS%20Builder&descSize=17&descAlignY=58" alt="header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,30:0D9488,70:6d5efc,100:a06dfc&height=260&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20ERP%20Architect%20%E2%80%A2%SaaS%20Builder&descSize=17&descAlignY=58" alt="header" />
 </a>
 
 <!-- ─────────── CONTACT ROW ─────────── -->
@@ -219,7 +219,7 @@ Speak your wishes — Wispr captures them. Native **iOS app (Swift / UIKit)** on
 <br>
 
 <!-- ═══════════════ SHIPPED ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3320,100:0A0E0D&height=60&section=header&text=Shipped%20%26%20Complete&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=done%2C%20deployed%2C%20delivered&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="shipped" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D9488&height=60&text=Shipped+and+Complete&fontSize=22&fontColor=ffffff&fontAlignY=38&desc=done+deployed+delivered&descSize=13&descAlignY=62&descColor=9fe9dd" width="100%" alt="shipped" />
 
 <table width="100%">
 <tr>
@@ -316,7 +316,7 @@ Pending → Documents Awaiting → Documents Received → Under Review
 <br>
 
 <!-- ═══════════════ BIOME SPOTLIGHT ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0d3320&height=60&section=header&text=Biome%20Enterprises%20--%20Live%20Client%20Project&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=biomeenterprises.com%20--%20live%20%26%20iterating&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="biome" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D9488&height=60&text=Biome+Enterprises+Live+Client+Project&fontSize=22&fontColor=ffffff&fontAlignY=38&desc=biomeenterprises.com+live+and+iterating&descSize=13&descAlignY=62&descColor=9fe9dd" width="100%" alt="biome" />
 
 <table width="100%">
 <tr>
@@ -652,4 +652,3 @@ Done beats perfect. Get it live, gather feedback, then sharpen — real users te
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d5efc,50:a06dfc,100:0A0E0D&height=120&section=footer" alt="footer" />
 
 </div>
-
