@@ -23,7 +23,7 @@
 <!-- ─────────── TYPING BANNER ─────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=38&pause=1000&color=6d5efc&center=true&vCenter=true&width=1200&height=80&lines=Senior+Full-Stack+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js+%7C+Swift;ERP+Architect+%7C+iOS+Builder;Building+Scalable%2C+Production-Grade+Systems)](https://mrinal-devfolio.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=38&pause=1000&color=6d5efc&center=true&vCenter=true&width=1200&height=80&lines=Senior+Full-Stack+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;ERP+Architect;Building+Scalable%2C+Production-Grade+Systems)](https://mrinal-devfolio.vercel.app)
 
 </div>
 
@@ -66,7 +66,7 @@
 - 🎙️ Currently building **[Wispr](https://tawoma.or.tz/minal)** — voice-first wishlist iOS app *(Swift + Laravel 12 · Active Development)*
 - ✅ **[Taskvel](https://taskvel.netlify.app/)** *(vanilla JS version)* — **Shipped & Complete** 🎉
 - 🌱 Sharpening **ERP architecture, scalable APIs & clean React frontends**
-- 💬 Ask me about **Laravel · PHP · Node.js · React · MySQL · REST APIs · iOS (Swift)**
+- 💬 Ask me about **Laravel · PHP · Node.js · React · MySQL · REST APIs · Wix**
 
 </td>
 <td width="38%" align="center">
@@ -92,7 +92,7 @@ const mrinal = {
     "Taskvel (JS)":      "✅ COMPLETE — Premium task manager + Pomodoro · taskvel.netlify.app",
   },
 
-  stack:   ["Laravel", "PHP", "Node.js", "React", "MySQL", "Swift / UIKit"],
+  stack:   ["Laravel", "PHP", "Node.js", "React", "MySQL", "Wix"],
   focus:   ["ERP Systems", "Backend-First Architecture", "Scalable APIs", "iOS Apps"],
   mindset: "Performance, security & business impact over hype",
   funFact: "Talks to rubber ducks. They debug better than Stack Overflow.",
@@ -376,7 +376,6 @@ Live at **[biomeenterprises.com](http://www.biomeenterprises.com/)** — coverin
   <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/></a>&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></a>
