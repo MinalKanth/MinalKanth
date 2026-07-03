@@ -219,7 +219,7 @@ Speak your wishes — Wispr captures them. Native **iOS app (Swift / UIKit)** on
 <br>
 
 <!-- ═══════════════ SHIPPED ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3320,100:0A0E0D&height=60&section=header&text=%E2%9C%85%20Shipped%20%26%20Complete&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=done%2C%20deployed%2C%20delivered&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="shipped" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3320,100:0A0E0D&height=60&section=header&text=Shipped%20%26%20Complete&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=done%2C%20deployed%2C%20delivered&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="shipped" />
 
 <table width="100%">
 <tr>
@@ -316,7 +316,7 @@ Pending → Documents Awaiting → Documents Received → Under Review
 <br>
 
 <!-- ═══════════════ BIOME SPOTLIGHT ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0d3320&height=60&section=header&text=%F0%9F%8C%BF%20Biome%20Enterprises%20%E2%80%94%20Live%20Client%20Project&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=biomeenterprises.com%20%E2%80%94%20live%20%26%20iterating&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="biome" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0d3320&height=60&section=header&text=Biome%20Enterprises%20--%20Live%20Client%20Project&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=biomeenterprises.com%20--%20live%20%26%20iterating&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="biome" />
 
 <table width="100%">
 <tr>
@@ -369,7 +369,7 @@ Live at **[biomeenterprises.com](http://www.biomeenterprises.com/)** — coverin
 <br>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=Languages%20%26%20Tools&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="tech stack" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=Languages%20and%20Tools&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="tech stack" />
 
 <p align="center">
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/></a>&nbsp;&nbsp;
@@ -401,7 +401,7 @@ Payment Gateways (Razorpay · Stripe · PayPal · Pesapal) · Performance Optimi
 <br>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%94%A5%20All%20Projects&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=shipped%20%26%20in%20progress&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="all projects" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=All%20Projects&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=shipped%20and%20in%20progress&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="all projects" />
 
 <table width="100%">
 <tr>
@@ -499,10 +499,10 @@ Real-time disappearing messaging app with live location sharing.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=default&title_color=6d5efc&text_color=FFFFFF&bg_color=0A0E0D&icon_color=a06dfc" alt="stats" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api?username=MinalKanth&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=default&title_color=6d5efc&text_color=FFFFFF&bg_color=0A0E0D&icon_color=a06dfc" alt="stats" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MinalKanth&theme=tokyonight&hide_border=true&background=0A0E0D&stroke=6d5efc&ring=6d5efc&fire=a06dfc&currStreakLabel=FFFFFF" alt="streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=6d5efc&text_color=FFFFFF&bg_color=0A0E0D" alt="top langs" />
+<img height="170" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MinalKanth&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=6d5efc&text_color=FFFFFF&bg_color=0A0E0D" alt="top langs" />
 
 </div>
 
@@ -652,3 +652,4 @@ Done beats perfect. Get it live, gather feedback, then sharpen — real users te
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d5efc,50:a06dfc,100:0A0E0D&height=120&section=footer" alt="footer" />
 
 </div>
+
