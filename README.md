@@ -1,299 +1,354 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     MRINAL KANTH PADHI · README v5.1
-     "Ek developer, infinite bugs ka dushman" 🐛⚔️
+     MRINAL KANTH PADHI · README v6.0
+     Senior Full-Stack Developer · ERP Architect · iOS Builder
 ═══════════════════════════════════════════════════════════════ -->
 
-<!-- ───────────── MASTERHEAD CODING BANNER ───────────── -->
+<!-- ─────────── ANIMATED HEADER ─────────── -->
 <a href="https://mrinal-devfolio.vercel.app/">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,30:0D9488,70:6d5efc,100:a06dfc&height=260&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20ERP%20Architect%20%E2%80%A2%20iOS%20Builder&descSize=17&descAlignY=58" alt="header" />
 </a>
 
-<a href="https://mrinal-devfolio.vercel.app/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,40:0D9488,100:2DD4BF&height=240&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20Laravel%20%C2%B7%20PHP%20%C2%B7%20React%20%C2%B7%20Swift%20%C2%B7%20Node.js&descSize=17&descAlignY=56" alt="header" />
-</a>
-
-
-<!-- ───────────── HI, I'M ... ───────────── -->
-<!-- ───────────── HERO SECTION ───────────── -->
-
+<!-- ─────────── CONTACT ROW ─────────── -->
 <div align="center">
 
-# Senior Full-Stack Developer
-
-### Laravel • PHP • React • WordPress • Node.js
+[![Email](https://img.shields.io/badge/📧_EMAIL-minalkanth.9@gmail.com-EA4335?style=for-the-badge&labelColor=0A0E0D)](mailto:minalkanth.9@gmail.com)
+[![Phone](https://img.shields.io/badge/📱_PHONE-%2B91_9678001910-25D366?style=for-the-badge&labelColor=0A0E0D)](tel:+919678001910)
+[![Portfolio](https://img.shields.io/badge/▲_PORTFOLIO-LIVE_WEBSITE-2DD4BF?style=for-the-badge&labelColor=0A0E0D)](https://mrinal-devfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mrinal_Kanth_Padhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E0D)](https://linkedin.com/in/mrinalkanthpadhi)
 
 </div>
 
 <br>
 
-<!-- ───────────── CONTACT ROW ───────────── -->
-
+<!-- ─────────── TYPING BANNER ─────────── -->
 <div align="center">
 
-<a href="mailto:minalkanth.9@gmail.com">
-<img src="https://img.shields.io/badge/📧_EMAIL-minalkanth.9@gmail.com-EA4335?style=for-the-badge&labelColor=0A0E0D"/>
-</a>
-
-<a href="tel:+919678001910">
-<img src="https://img.shields.io/badge/📱_PHONE-%2B91_9678001910-25D366?style=for-the-badge&labelColor=0A0E0D"/>
-</a>
-
-<a href="https://mrinal-devfolio.vercel.app">
-<img src="https://img.shields.io/badge/▲_PORTFOLIO-LIVE_WEBSITE-2DD4BF?style=for-the-badge&labelColor=0A0E0D"/>
-</a>
-
-<a href="https://linkedin.com/in/mrinalkanthpadhi">
-<img src="https://img.shields.io/badge/LinkedIn-Mrinal_Kanth_Padhi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E0D"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=38&pause=1000&color=6d5efc&center=true&vCenter=true&width=1200&height=80&lines=Senior+Full-Stack+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js+%7C+Swift;ERP+Architect+%7C+iOS+Builder;Building+Scalable%2C+Production-Grade+Systems)](https://mrinal-devfolio.vercel.app)
 
 </div>
 
 <br>
 
+<!-- ─────────── CTA ─────────── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=42&pause=1000&color=2DD4BF&center=true&vCenter=true&width=1200&height=80&lines=Senior+Full-Stack+Web+Developer;Laravel+%7C+PHP+%7C+React+%7C+Node.js;Building+Scalable+Software+Solutions)](https://mrinal-devfolio.vercel.app)
+## 🚀 Available for Remote Jobs · Freelance Projects · Long-Term Collaborations
+
+[![Portfolio](https://img.shields.io/badge/🎯_EXPLORE_MY_PORTFOLIO-VISIT_NOW-6d5efc?style=for-the-badge&labelColor=0A0E0D)](https://mrinal-devfolio.vercel.app)
+[![Contact](https://img.shields.io/badge/🤝_LET'S_WORK_TOGETHER-CONTACT_ME-a06dfc?style=for-the-badge&labelColor=0A0E0D)](mailto:minalkanth.9@gmail.com)
 
 </div>
 
 <br>
 
+<!-- ─────────── STATUS CARDS ─────────── -->
 <div align="center">
 
-## 🚀 Available for Remote Jobs, Freelance Projects & Long-Term Collaborations
-
-<a href="https://mrinal-devfolio.vercel.app">
-<img src="https://img.shields.io/badge/🎯_EXPLORE_MY_PORTFOLIO-VISIT_NOW-2DD4BF?style=for-the-badge&labelColor=0A0E0D"/>
-</a>
-
-<a href="mailto:minalkanth.9@gmail.com">
-<img src="https://img.shields.io/badge/🤝_LET'S_WORK_TOGETHER-CONTACT_ME-14F195?style=for-the-badge&labelColor=0A0E0D"/>
-</a>
+| 👁️ Profile Views | 💼 Open To | 📍 Based In | ⚡ Experience | ☕ Powered By |
+|:---:|:---:|:---:|:---:|:---:|
+| **2000+** | **Remote Work** | **Assam, India** | **4+ Years** | **Chai & Commits** |
 
 </div>
 
 <br>
 
-<!-- ───────────── STATUS CARDS ───────────── -->
-
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="https://img.shields.io/badge/👁️_PROFILE_VIEWS-2000+-2DD4BF?style=for-the-badge&labelColor=0A0E0D"/>
-<br>
-<sub>Thanks for stopping by!</sub>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/💼_OPEN_TO-REMOTE_WORK-14F195?style=for-the-badge&labelColor=0A0E0D"/>
-<br>
-<sub>Worldwide Opportunities</sub>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/📍_BASED_IN-ASSAM,_INDIA-3B82F6?style=for-the-badge&labelColor=0A0E0D"/>
-<br>
-<sub>Open to work globally</sub>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/☕_POWERED_BY-CHAI_&_COMMITS-FF8C42?style=for-the-badge&labelColor=0A0E0D"/>
-<br>
-<sub>Fueling ideas since day one</sub>
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ───────────── ABOUT ME ───────────── -->
+<!-- ─────────── ABOUT ME ─────────── -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%A7%AC%20whoami&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=who%20is%20this%20guy%3F&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="whoami" />
 
 <table align="center" width="100%">
 <tr>
-
-<td width="65%" valign="top">
+<td width="62%" valign="top">
 
 ### 🚀 About Me
 
-- 🎙️ Currently building **[Wispr](https://tawoma.or.tz/minal)** and **[Taskvel](https://taskvel.netlify.app/)**
-
-- 🌱 Sharpening **scalable backend architecture & clean React frontends**
-
-- 💬 Ask me about **Laravel • PHP • Node.js • React • MySQL • REST APIs**
-
-- 📫 Reach me at **minalkanth.9@gmail.com**
-
-- ⚡ Passionate about turning complex business requirements into scalable software solutions
+- 🏗️ Currently building **[Taskvel ERP](https://taskvel.netlify.app/)** — a full-scale Compliance & Productivity ERP for CA firms, HR consultancies and payroll agencies
+- 🌿 Active client project: **[Biome Enterprises](http://www.biomeenterprises.com/)** — B2B logistics & bamboo trading platform for Northeast India
+- 🎙️ Personal app in development: **[Wispr](https://tawoma.or.tz/minal)** — voice-first wishlist iOS app
+- 🌱 Sharpening **ERP architecture, scalable APIs & clean React frontends**
+- 💬 Ask me about **Laravel · PHP · Node.js · React · MySQL · REST APIs · iOS (Swift)**
+- ⚡ I turn complex business requirements into production-grade, scalable software
 
 </td>
-
-<td width="35%" align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320"/>
-
+<td width="38%" align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" style="border-radius:16px;"/>
 </td>
-
 </tr>
 </table>
 
-<br clear="all"/>
-
-<!-- ───────────── QUICK STATS ───────────── -->
-<div align="center">
-
-| 🚀 Experience | 📦 Shipped | ⚙️ Tech Mastered | 🌍 Mode | ☕ Bugs Squashed |
-|:---:|:---:|:---:|:---:|:---:|
-| **3.6+ Years** | **20+ Projects** | **12+** | **Remote / Freelance** | **∞ (and counting)** |
-
-</div>
-
-<br/>
-
-<!-- ═══════════════ WHOAMI ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%A7%AC%20whoami&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=who%20is%20this%20guy%3F&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="whoami" />
+<br>
 
 ```ts
 const mrinal = {
-  role:      "Senior Full-Stack Developer",
-  location:  "Assam, India 🇮🇳 — Remote Worldwide",
-  currentlyFocusedOn: [
-       "Wispr → https://tawoma.or.tz/minal",
-       "Taskvel → https://taskvel.netlify.app/",
-       "APIs for Mobile Apps"
-  ],
-  stack:     ["Laravel", "PHP", "Node.js", "React", "MySQL"],
-  focus:     ["Backend-First Architecture", "Scalable APIs", "Clean UX"],
-  mindset:   "Performance, security & business impact over hype",
-  funFact:   "Talks to rubber ducks. They debug better than Stack Overflow.",
-  openTo:    ["Remote Roles", "Freelance", "Collaborations"],
+  role:       "Senior Full-Stack Developer · ERP Architect",
+  location:   "Assam, India 🇮🇳  —  Remote Worldwide",
+
+  currentlyBuilding: {
+    "Taskvel ERP":         "Full-scale compliance + productivity ERP (Laravel 12)",
+    "Biome Enterprises":   "B2B logistics & bamboo trading — http://www.biomeenterprises.com/",
+    "Wispr iOS":           "Voice-first wishlist app — Swift / UIKit / Laravel 12",
+  },
+
+  stack:    ["Laravel", "PHP", "Node.js", "React", "MySQL", "Swift"],
+  focus:    ["ERP Systems", "Backend-First Architecture", "Scalable APIs", "Clean UX"],
+  mindset:  "Performance, security & business impact over hype",
+  funFact:  "Talks to rubber ducks. They debug better than Stack Overflow.",
+  openTo:   ["Remote Roles", "Freelance", "Long-Term Collaborations"],
 };
 ```
 
-I'm a **backend-first full-stack developer** who ships **scalable, secure, production-grade systems**. My happy place is **Laravel + REST APIs** wrapped in clean React frontends. My less-happy-but-still-fun place is staring at a `404` until it confesses.
+<br>
 
-Over **3.6+ years** I've delivered **20+ production projects** — SaaS platforms, hybrid Laravel + WordPress builds, real-time delivery & carpooling apps, an SSL certificate management SaaS, multi-vendor eCommerce, and enterprise dashboards. Currently **freelance / self-employed**, owning projects end-to-end: *discovery → architecture → deployment → "it works on prod, finally."*
+<!-- ─────────── QUICK STATS ─────────── -->
+<div align="center">
 
-<br/>
+| 🚀 Experience | 📦 Projects Shipped | ⚙️ Technologies | 🌍 Work Mode | 🐛 Bugs Squashed |
+|:---:|:---:|:---:|:---:|:---:|
+| **4+ Years** | **20+ Projects** | **15+** | **Remote / Freelance** | **∞ (and counting)** |
+
+</div>
+
+<br>
 
 <!-- ═══════════════ CURRENTLY BUILDING ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%9B%B0%EF%B8%8F%20Currently%20Building&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=live%20from%20the%20lab&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="currently building" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%9B%B0%EF%B8%8F%20Currently%20Building&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=live%20from%20the%20lab&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="currently building" />
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+
+<!-- Taskvel ERP -->
+<td width="33%" valign="top">
+
+### 🏗️ [Taskvel ERP](https://taskvel.netlify.app/)
+**Compliance & Productivity Operating System**
+
+A dual-module ERP replacing spreadsheets and WhatsApp chaos for CA firms, HR consultancies and payroll agencies. Covers GST, EPF, ESIC, payroll, registrations, client portals, document vaults, automated reminders, and a 23-step compliance pipeline — alongside a full personal productivity suite.
+
+![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP%208.3-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+> 🔵 **Active Development** — ERP Phase
+
+</td>
+
+<!-- Biome -->
+<td width="33%" valign="top">
+
+### 🌿 [Biome Enterprises](http://www.biomeenterprises.com/)
+**B2B Logistics & Bamboo Trading Platform**
+
+Northeast India's leading B2B logistics and sustainable bamboo trading firm. Built a premium multi-page website covering freight logistics, bamboo product marketplace, fleet management (150+ vehicles), real-time shipment tracking, cab services, and a quote calculator — serving 500+ businesses across all 8 Northeast Indian states.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+[🌐 Live →](http://www.biomeenterprises.com/) &nbsp; `🟢 Live in Production`
+
+</td>
+
+<!-- Wispr -->
+<td width="33%" valign="top">
 
 ### 🎙️ [Wispr](https://tawoma.or.tz/minal)
-**Voice-first wishlist & dream-sharing app**
+**Voice-First Wishlist iOS App**
 
-Speak your wishes — Wispr captures them. A native **iOS app (Swift / UIKit)** on a **Laravel 12** backend with Firebase UID + Sanctum auth, full wish CRUD, image uploads & profile management. Designed with the in-house **Aura Design System** 🌅
+Speak your wishes — Wispr captures them. Native **iOS app (Swift / UIKit)** on a **Laravel 12** backend with Firebase UID + Sanctum auth, full wish CRUD with soft deletes, milestones, image gallery, voice notes, FCM push (raw HTTP v1 API), and a custom **Aura Design System** (Sky Blue + Sunset Orange).
 
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat-square&logo=swift&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel%2012-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
 
-[🌐 Live Demo →](https://tawoma.or.tz/minal)
+[🌐 Live Demo →](https://tawoma.or.tz/minal) &nbsp; `🔵 Active Development`
 
-`🟢 In active development`
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════ TASKVEL ERP DEEP DIVE ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1230,100:0A0E0D&height=60&section=header&text=%F0%9F%8F%97%EF%B8%8F%20Taskvel%20ERP%20%E2%80%94%20Deep%20Dive&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=the%20flagship%20build&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="taskvel erp" />
+
+<div align="center">
+
+### Two Powerful Modules. One Platform. Zero Compromises.
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**⚡ Productivity Suite** — *For individuals & teams*
+
+- ✅ Smart task management with urgency × impact matrix
+- ✅ Pomodoro focus system (custom durations, 5 timer modes)
+- ✅ 28-day focus heatmap & streak tracking
+- ✅ Remarks / progress notes with tone tags
+- ✅ Browser notifications + ambient sound engine
+- ✅ Export to CSV / Excel / PDF / JSON
+- ✅ Premium dark sidebar ERP dashboard
+- ✅ Real-time notification center
 
 </td>
 <td width="50%" valign="top">
 
-### ✅ [Taskvel](https://taskvel.netlify.app/)
-**Premium task organiser + Pomodoro timer**
+**🏢 Compliance Module** — *For CA firms & payroll agencies*
 
-A polished, single-file productivity app with a clean four-accent theme and a built-in focus timer. Built for people who plan in tabs and live in to-do lists. Heading to the **App Store & Play Store**. 🚀
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
-[🌐 Live Demo →](https://taskvel.netlify.app/)
-
-`🚀 Launch-ready`
+- ✅ Full client lifecycle — GST / EPF / ESIC / Payroll / Registrations
+- ✅ 23-step compliance pipeline with auto-task generation
+- ✅ Monthly filing tracker (Pending → Filed → Verified → Completed)
+- ✅ Employee management with UAN / ESIC / PF records
+- ✅ Document vault with folder structure & version history
+- ✅ WhatsApp + Email integration → auto client timeline
+- ✅ Invoice & payment management (GST-compliant PDFs)
+- ✅ Role-based access (Spatie) — 7 permission levels
 
 </td>
 </tr>
 </table>
 
-<br/>
+```
+Compliance Pipeline:
+Pending → Documents Awaiting → Documents Received → Under Review
+       → Filed → Verified → Completed
+       → Rejected → Revised → Late Filed / Missed Deadline
+```
 
-<!-- ═══════════════ LANGUAGES & TOOLS (Devicon icons, Rishav-style) ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=Languages%20and%20Tools&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="languages and tools" />
+<br>
+
+<!-- ═══════════════ BIOME SPOTLIGHT ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0d3320&height=60&section=header&text=%F0%9F%8C%BF%20Biome%20Enterprises%20%E2%80%94%20Client%20Spotlight&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=live%20at%20biomeenterprises.com&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="biome" />
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+**Northeast India's Premier B2B Logistics & Bamboo Trading Platform**
+
+[biomeenterprises.com](http://www.biomeenterprises.com/) covers the full digital presence for a logistics firm operating across all 8 Northeast Indian states:
+
+| Feature | Detail |
+|---|---|
+| 🚚 Freight Logistics | HCV / MCV / Van fleet booking |
+| 🌿 Bamboo Marketplace | 20+ products, category filters, bulk orders |
+| 📍 Shipment Tracking | Live GPS + delivery timeline |
+| 🚗 Cab Services | Self-drive · With driver · Long-term rental |
+| 📊 Fleet Dashboard | 150+ vehicles, specs, availability |
+| 💰 Quote Calculator | Instant freight pricing |
+| 📱 Fully Responsive | 375px → 1920px |
+
+</td>
+<td width="45%" valign="top">
+
+**Tech Stack Used**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap%205-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=000)
+![AOS](https://img.shields.io/badge/AOS-Animations-2DD4BF?style=flat-square)
+
+**Key Design Choices**
+- Premium glassmorphism UI
+- Professional green & gold palette
+- GSAP 3.12 for premium animations
+- Mobile-first, WCAG-compliant
+- Semantic HTML5 throughout
+- 500+ businesses served
+- 150+ modern fleet vehicles
+
+> 🌐 **[Visit Live Site →](http://www.biomeenterprises.com/)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=Languages%20%26%20Tools&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=tools%20of%20the%20trade&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="tech stack" />
 
 <p align="center">
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></a>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://developer.apple.com/swift/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/></a>
 </p>
 
 <p align="center">
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/></a>
+  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://wordpress.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/></a>&nbsp;&nbsp;
+  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/></a>
 </p>
 
 <div align="center">
 
-**⚡ Core Strengths:** REST APIs • MVC Architecture • Real-time Systems • Payment Gateways (Razorpay · Stripe · PayPal · Pesapal) • Performance Optimization • Hybrid Laravel + WordPress
+**⚡ Core Strengths:** REST APIs · ERP Systems · MVC Architecture · Real-time Systems
+Payment Gateways (Razorpay · Stripe · PayPal · Pesapal) · Performance Optimization · Hybrid Laravel + WordPress
 
 </div>
 
-<br/>
+<br>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%94%A5%20Featured%20Projects&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=greatest%20hits&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="featured projects" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%94%A5%20Featured%20Projects&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=greatest%20hits&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="featured projects" />
 
-<table>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🏗️ [Taskvel ERP](https://taskvel.netlify.app/)
+Full-scale Compliance + Productivity ERP for CA firms & payroll agencies. GST · EPF · ESIC · Payroll · 23-step compliance pipeline.
+`Laravel 12` · `PHP 8.3` · `MySQL` · `Bootstrap 5`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌿 [Biome Enterprises](http://www.biomeenterprises.com/)
+B2B logistics & bamboo trading platform. 500+ businesses · 150+ vehicles · 8 NE states.
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap 5` · `GSAP`
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
 #### 🎙️ [Wispr](https://tawoma.or.tz/minal)
-
-Voice-first wishlist app — speak your dreams, Wispr remembers.
-
-🌐 **Live:** https://tawoma.or.tz/minal
-
-`Swift` · `Laravel 12` · `Firebase`
+Voice-first wishlist iOS app. Native Swift / UIKit + Laravel 12 backend + Firebase + FCM.
+`Swift` · `UIKit` · `Laravel 12` · `Firebase`
 
 </td>
-<td width="50%" valign="top">
-
-### ✅ [Taskvel](https://taskvel.netlify.app/)
-Premium task organiser with a built-in Pomodoro focus timer.
-🌐 **Live:** https://taskvel.netlify.app/
-`JS` · `Netlify`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🎬 Beastierated
 AI character-driven video subscription SaaS — region access, affiliates & vendor integrations.
-`Laravel`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔐 SSL Cert Management
-Full SaaS: payments, CSR generation, renewal reminders & admin panel.
-`React` · `Node.js` · `Stripe`
+`Laravel` · `React` · `Payment Gateways`
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+#### 🔐 SSL Cert Management SaaS
+Full SaaS: payments, CSR generation, renewal reminders & admin panel.
+`React` · `Node.js` · `Stripe`
+
+</td>
 <td width="50%" valign="top">
 
 #### 📰 Elmo
@@ -301,20 +356,13 @@ Multi-role publishing system with approval workflows & secure payments.
 `Laravel` · `WordPress`
 
 </td>
-<td width="50%" valign="top">
-
-#### 🚗 Logiride
-Carpooling + shipment delivery with live tracking & admin APIs.
-`Laravel`
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🚚 LIVRE UR
-Real-time local services & delivery platform with role dashboards.
-`WordPress`
+#### 🚗 Logiride
+Carpooling + shipment delivery with live tracking & admin APIs.
+`Laravel` · `Real-time`
 
 </td>
 <td width="50%" valign="top">
@@ -329,73 +377,53 @@ Real-time disappearing messaging app with live location sharing.
 
 <div align="center">
 
-🎬 **Full case studies with live demos** → [mrinal-devfolio.vercel.app](https://mrinal-devfolio.vercel.app/)
+🎬 **Full case studies + live demos** → [mrinal-devfolio.vercel.app](https://mrinal-devfolio.vercel.app/)
 
 </div>
 
-<br/>
+<br>
 
 <!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=the%20receipts&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="github analytics" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Analytics&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=the%20receipts&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="github analytics" />
 
 <div align="center">
 
-<!-- Stats card — letter grade (rank_icon=default), public commits only so it loads reliably -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=chartreuse-dark&hide_border=true&show_icons=true&rank_icon=default&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D&icon_color=2DD4BF" alt="stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MinalKanth&theme=chartreuse-dark&hide_border=true&background=0A0E0D&stroke=2DD4BF&ring=2DD4BF&fire=14F195&currStreakLabel=FFFFFF" alt="streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MinalKanth&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=default&title_color=6d5efc&text_color=FFFFFF&bg_color=0A0E0D&icon_color=a06dfc" alt="stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MinalKanth&theme=tokyonight&hide_border=true&background=0A0E0D&stroke=6d5efc&ring=6d5efc&fire=a06dfc&currStreakLabel=FFFFFF" alt="streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=8&title_color=2DD4BF&text_color=FFFFFF&bg_color=0A0E0D" alt="top langs" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinalKanth&theme=react-dark&bg_color=0A0E0D&color=2DD4BF&line=2DD4BF&point=14F195&hide_border=true" alt="activity graph" width="100%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinalKanth&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&title_color=6d5efc&text_color=FFFFFF&bg_color=0A0E0D" alt="top langs" />
 
 </div>
 
+<br>
 
-
-
-
-<br/>
-
-<!-- ───── COLORFUL PROFILE SUMMARY CARDS (2077 theme) ───── -->
 <div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinalKanth&theme=tokyo-night&bg_color=0A0E0D&color=6d5efc&line=a06dfc&point=c084fc&hide_border=true" alt="activity graph" width="100%" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinalKanth&theme=2077" width="100%" alt="profile summary" />
+<br>
 
+<!-- ─────── PROFILE SUMMARY CARDS ─────── -->
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinalKanth&theme=tokyonight" width="100%" alt="profile summary" />
 </div>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinalKanth&theme=2077" width="49%" alt="repos per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinalKanth&theme=2077" width="49%" alt="most commit language" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinalKanth&theme=tokyonight" width="49%" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinalKanth&theme=tokyonight" width="49%" alt="most commit language" />
 </div>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinalKanth&theme=2077" width="49%" alt="stats summary" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinalKanth&theme=2077&utcOffset=5.5" width="49%" alt="productive time" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinalKanth&theme=tokyonight" width="49%" alt="stats summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinalKanth&theme=tokyonight&utcOffset=5.5" width="49%" alt="productive time" />
 </div>
 
-
-
-
-
-
-
-
-<br/>
+<br>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
 <div align="center">
 
-#### 🐍 ...and here's a snake eating all my contributions
+#### 🐍 ...here's a snake eating all my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MinalKanth/MinalKanth/output/snake-dark.svg" />
@@ -404,47 +432,48 @@ Real-time disappearing messaging app with live location sharing.
 
 </div>
 
-<br/>
+<br>
 
 <!-- ═══════════════ JOURNEY ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&section=header&text=%F0%9F%8F%A2%20The%20Journey%20So%20Far&fontSize=22&fontColor=2DD4BF&fontAlignY=42&desc=where%20I've%20been&descSize=12&descAlignY=72&descColor=9fe9dd" width="100%" alt="journey" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%8F%A2%20The%20Journey%20So%20Far&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=where%20I've%20been&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="journey" />
 
 ```text
-🟢  Freelance / Self-Employed — Senior Developer            Nov 2025 – Present
+🟣  Freelance / Self-Employed — Senior Developer            Nov 2025 – Present
+    Building Taskvel ERP + Biome Enterprises + Wispr iOS.
     End-to-end SaaS & custom solutions for global clients.
 
-🟢  Perfect Web Services — Mohali                           Apr 2025 – Present
+🟣  Perfect Web Services — Mohali                           Apr 2025 – Present
     Custom Laravel APIs, full-stack React + Node.js builds & plugins.
-    🥇 Earned "The Calm in Chaos" award (Oct 2025).
+    🥇 Earned "The Calm in Chaos" award — Oct 2025.
 
-🟢  ViPrak Web Solutions — Surat                            Sep 2022 – Mar 2025
+🟣  ViPrak Web Solutions — Surat                            Sep 2022 – Mar 2025
     Responsive sites, Laravel backends, code reviews & client delivery.
 ```
 
-<br/>
+<br>
 
 <!-- ═══════════════ ACHIEVEMENTS ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&text=Achievements&fontSize=24&fontColor=2DD4BF&fontAlignY=42&desc=proof%20on%20paper&descSize=13&descAlignY=72&descColor=9fe9dd" width="100%" alt="achievements" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&text=Achievements&fontSize=24&fontColor=6d5efc&fontAlignY=42&desc=proof%20on%20paper&descSize=13&descAlignY=72&descColor=a78bfa" width="100%" alt="achievements" />
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **🏅 Awards & Research**
 
-🥇 The Calm in Chaos Award — Perfect Web Services *(Oct 2025)* </br>
-🌟 Innovation & Think Tank Award — ARGUCOM *(2019–2022)* </br>
-📝 Published: *Smart Chair with Health Monitoring* </br>
+🥇 The Calm in Chaos Award — Perfect Web Services *(Oct 2025)*
+🌟 Innovation & Think Tank Award — ARGUCOM *(2019–2022)*
+📝 Published: *Smart Chair with Health Monitoring*
 📝 Published: *Data Mining for MSME Sales*
 
 </td>
 <td width="50%" valign="top">
 
-**🎓 Education & Certs**
+**🎓 Education & Certifications**
 
-🎓 **MCA** — Assam Rajiv Gandhi University *(8.6 CGPA)* </br>
-🎓 **BCA** — Gauhati University *(7.1 CGPA)* </br>
-📜 PHP · Android · Machine Learning </br>
+🎓 **MCA** — Assam Rajiv Gandhi University *(8.6 CGPA)*
+🎓 **BCA** — Gauhati University *(7.1 CGPA)*
+📜 PHP · Android · Machine Learning
 📜 Cyber Security · Deep Learning
 
 </td>
@@ -457,28 +486,35 @@ Real-time disappearing messaging app with live location sharing.
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════ DEV PHILOSOPHY ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:0D9488&height=60&text=How%20I%20Work&fontSize=24&fontColor=2DD4BF&fontAlignY=42&desc=the%20operating%20manual&descSize=13&descAlignY=72&descColor=9fe9dd" width="100%" alt="how i work" />
+<!-- ═══════════════ HOW I WORK ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&text=How%20I%20Work&fontSize=24&fontColor=6d5efc&fontAlignY=42&desc=the%20operating%20manual&descSize=13&descAlignY=72&descColor=a78bfa" width="100%" alt="how i work" />
 
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🧱 Backend-First**
 
-APIs and data models come before pixels. A clean schema today saves a refactor tomorrow.
+APIs and data models before pixels. A clean schema today saves a refactor tomorrow.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
 
 **🔐 Security by Default**
 
-Auth, validation & access control aren't add-ons. They're the foundation, baked in from commit one.
+Auth, validation & access control aren't add-ons. They're baked in from commit one.
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="25%">
+
+**🏗️ ERP Thinking**
+
+Complex workflows deserve structured pipelines, role-based access, and audit trails — not workarounds.
+
+</td>
+<td align="center" width="25%">
 
 **🚀 Ship & Iterate**
 
@@ -488,7 +524,7 @@ Done beats perfect. Get it live, gather feedback, then sharpen — real users te
 </tr>
 </table>
 
-<br/>
+<br>
 
 ---
 
@@ -497,10 +533,12 @@ Done beats perfect. Get it live, gather feedback, then sharpen — real users te
 ### 💬 *"Great software is art — clarity, craftsmanship & real impact."*
 #### *(...and 40% of it is just naming variables correctly.)*
 
-**Open to remote roles, long-term collaborations & ambitious projects.**
+**Open to remote roles, long-term collaborations & ambitious ERP / SaaS projects.**
 
-#### 👉 [Explore the full experience →](https://mrinal-devfolio.vercel.app/)
+#### 👉 [Explore the full portfolio →](https://mrinal-devfolio.vercel.app/)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2DD4BF,50:0D9488,100:0A0E0D&height=120&section=footer" alt="footer" />
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d5efc,50:a06dfc,100:0A0E0D&height=120&section=footer" alt="footer" />
 
 </div>
