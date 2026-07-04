@@ -637,6 +637,65 @@ Done beats perfect. Get it live, gather feedback, then sharpen — real users te
 <br>
 
 ---
+<br>
+<!-- ═══════════════ YEARLY CONTRIBUTIONS ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%93%86%20Yearly%20Contributions&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=code%20frequency%20by%20year&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="yearly contributions" />
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinalKanth&theme=tokyonight" width="100%" alt="contributions per year" /> 
+</div>
+<br>
+<!-- ═══════════════ PREMIUM FEATURES ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%E2%9C%A8%20Premium%20Features&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=what%20makes%20it%20special&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="premium features" />
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+🚀 Fast & Scalable
+
+Performance-optimized code
+Modular architecture for growth
+Rigorous stress testing & profiling
+
+📈 Business Impact
+
+Revenue & conversion tracking
+A/B testing key flows
+Funnel optimization
+KPI dashboards
+
+</td>
+<td width="50%" valign="top">
+🔒 Enterprise-Grade Security
+
+Role-based access control
+Audit logging
+Input validation & sanitization
+Secure password hashing
+
+🎨 Intuitive UX
+
+User-centric design
+Responsive & mobile-friendly
+Accessibility (WCAG) compliance
+Efficient onboarding & help docs
+
+</td>
+</tr>
+</table>
+
+
+
+<br>
+<!-- ═══════════════ CONTRIBUTIONS BY YEAR ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%93%86%20Contributions%20by%20Year&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=click%20to%20view%20annual%20activity&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="contributions by year" />
+<div align="center">
+Show Image
+Show Image
+Show Image
+Show Image
+</div>
+<br>
+
+<br>
 
 <div align="center">
 
