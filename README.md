@@ -394,7 +394,7 @@ Live at **[biomeenterprises.com](http://www.biomeenterprises.com/)** — coverin
 <div align="center">
 
 **⚡ Core Strengths:** REST APIs · ERP Systems · MVC Architecture · Real-time Systems
-Payment Gateways (Razorpay · Stripe · PayPal · Pesapal) · Performance Optimization · Hybrid Laravel + WordPress · iOS Development
+Payment Gateways (Razorpay · Stripe · PayPal · Pesapal) · Performance Optimization · Hybrid Laravel + WordPress · Wix
 
 </div>
 
