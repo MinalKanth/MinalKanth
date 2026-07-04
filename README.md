@@ -685,17 +685,6 @@ Efficient onboarding & help docs
 
 
 <br>
-<!-- ═══════════════ CONTRIBUTIONS BY YEAR ═══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%93%86%20Contributions%20by%20Year&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=click%20to%20view%20annual%20activity&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="contributions by year" />
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
-<br>
-
-<br>
 
 <div align="center">
 
