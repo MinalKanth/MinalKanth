@@ -548,8 +548,9 @@ Real-time disappearing messaging app with live location sharing.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%8F%A2%20The%20Journey%20So%20Far&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=where%20I've%20been&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="journey" />
 
 ```text
-🟣  Freelance / Self-Employed — Senior Developer            Nov 2025 – Present
-    Taskvel ERP (Laravel 12) + Biome Enterprises (live) + Wispr iOS (Swift).
+🟣 [Insoft Solution](https://www.insoftsolution.com/) — Senior Full-Stack Developer | Nov 2025 – Present  
+    Working on **Taskvel ERP** (Laravel 12 · https://samalconsultancy.com/taskvel-premium.php), **Biome Enterprises** (https://www.biomeenterprises.com/), **Wispr iOS** (Swift), and **Samal Consultancy** (https://samalconsultancy.com/) — delivering scalable ERP, SaaS, web, and mobile solutions. :contentReference[oaicite:0]{index=0}
+    
     End-to-end SaaS, ERP & client solutions for global clients.
 
 🟣  Perfect Web Services — Mohali                           Apr 2025 – Present
