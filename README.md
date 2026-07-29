@@ -61,7 +61,7 @@
 
 ### 🚀 About Me
 
-- 🏗️ Currently building **[Taskvel ERP](https://taskvel.netlify.app/)** — a full-scale Compliance & Productivity ERP for CA firms, HR consultancies and payroll agencies *(Laravel 12 · Active Development)*
+- 🏗️ Currently building **[Taskvel ERP](https://samalconsultancy.com/taskvel-premium.php)** — a full-scale Compliance & Productivity ERP for CA firms, HR consultancies and payroll agencies *(Laravel 12 · Active Development)*
 - 🌿 Currently building **[Biome Enterprises](http://www.biomeenterprises.com/)** — B2B logistics & bamboo trading platform for Northeast India *(Live in production · Actively iterating)*
 - 🎙️ Currently building **[Wispr](https://tawoma.or.tz/minal)** — voice-first wishlist iOS app *(Swift + Laravel 12 · Active Development)*
 - ✅ **[Taskvel](https://taskvel.netlify.app/)** *(vanilla JS version)* — **Shipped & Complete** 🎉
@@ -120,7 +120,7 @@ const mrinal = {
 
 | Project | Status | Stack | Links |
 |---|:---:|---|---|
-| 🏗️ **Taskvel ERP** | 🔵 `IN PROGRESS` | Laravel 12 · PHP 8.3 · MySQL · Bootstrap 5 | [Demo →](https://taskvel.netlify.app/) |
+| 🏗️ **Taskvel ERP** | 🔵 `IN PROGRESS` | Laravel 12 · PHP 8.3 · MySQL · Bootstrap 5 | [Demo →](https://samalconsultancy.com/taskvel-premium.php) |
 | 🌿 **Biome Enterprises** | 🟢 `LIVE + ITERATING` | HTML5 · CSS3 · JS · Bootstrap 5 · GSAP | [Live →](http://www.biomeenterprises.com/) |
 | 🎙️ **Wispr iOS** | 🔵 `IN PROGRESS` | Swift · UIKit · Laravel 12 · Firebase · FCM | [Demo →](https://tawoma.or.tz/minal) |
 | ✅ **Taskvel (JS)** | ✅ `COMPLETE` | Vanilla JS · HTML5 · CSS3 · Netlify | [Live →](https://taskvel.netlify.app/) |
@@ -407,8 +407,8 @@ Payment Gateways (Razorpay · Stripe · PayPal · Pesapal) · Performance Optimi
 <tr>
 <td width="50%" valign="top">
 
-#### 🔵 [Taskvel ERP](https://taskvel.netlify.app/) — *In Progress*
-Full-scale Compliance + Productivity ERP. GST · EPF · ESIC · Payroll · 23-step compliance pipeline.
+#### 🔵 [Taskvel ERP](https://samalconsultancy.com/taskvel-premium.php) — *In Progress*
+Full-scale Compliance + Productivity ERP for [Samal Consultancy](https://samalconsultancy.com/). GST · EPF · ESIC · Payroll · 23-step compliance pipeline.
 `Laravel 12` · `PHP 8.3` · `MySQL` · `Bootstrap 5`
 
 </td>
@@ -548,10 +548,8 @@ Real-time disappearing messaging app with live location sharing.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%8F%A2%20The%20Journey%20So%20Far&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=where%20I've%20been&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="journey" />
 
 ```text
-🟣 [Insoft Solution](https://www.insoftsolution.com/) — Senior Full-Stack Developer | Nov 2025 – Present  
-    Working on **Taskvel ERP** (Laravel 12 · https://samalconsultancy.com/taskvel-premium.php), **Biome Enterprises** (https://www.biomeenterprises.com/), **Wispr iOS** (Swift), and **Samal Consultancy** (https://samalconsultancy.com/) — delivering scalable ERP, SaaS, web, and mobile solutions. :contentReference[oaicite:0]{index=0}
-    
-    End-to-end SaaS, ERP & client solutions for global clients.
+🟣  [Insoft Solution](https://www.insoftsolution.com/) — Senior Full-Stack Developer   Nov 2025 – Present
+    Taskvel ERP (Laravel 12 · https://samalconsultancy.com/taskvel-premium.php) + Biome Enterprises ([live](https://www.biomeenterprises.com/)) + Wispr iOS (Swift) - under development . + Samal Consultancy (https://samalconsultancy.com/)
 
 🟣  Perfect Web Services — Mohali                           Apr 2025 – Present
     Custom Laravel APIs, full-stack React + Node.js builds & plugins.
