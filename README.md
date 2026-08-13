@@ -435,6 +435,8 @@ Premium task manager + Pomodoro timer. Single-file vanilla JS app, live on Netli
 `Vanilla JS` · `HTML5` · `CSS3` · `Netlify`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### ✅ [Samal Consultancy Website](https://www.samalconsultancy.com/) — *Delivered*
@@ -442,8 +444,6 @@ Corporate website for Samal Consultancy — developed and delivered, now live in
 `HTML5` · `CSS3` · `JavaScript` · `Bootstrap 5`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🎬 Beastierated — *Shipped*
@@ -451,6 +451,8 @@ AI character-driven video subscription SaaS — region access, affiliates & vend
 `Laravel` · `React` · `Payment Gateways`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🔐 SSL Cert Management SaaS — *Shipped*
@@ -458,7 +460,6 @@ Full SaaS: payments, CSR generation, renewal reminders & admin panel.
 `React` · `Node.js` · `Stripe`
 
 </td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
