@@ -32,7 +32,7 @@
 <!-- ─────────── CTA ─────────── -->
 <div align="center">
 
-## 🚀 Available for Remote Jobs · Freelance Projects · Long-Term Collaborations
+## 🚀 Available for Remote Jobs · Long-Term Collaborations
 
 [![Portfolio](https://img.shields.io/badge/🎯_EXPLORE_MY_PORTFOLIO-VISIT_NOW-6d5efc?style=for-the-badge&labelColor=0A0E0D)](https://mrinal-devfolio.vercel.app)
 [![Contact](https://img.shields.io/badge/🤝_LET'S_WORK_TOGETHER-CONTACT_ME-a06dfc?style=for-the-badge&labelColor=0A0E0D)](mailto:minalkanth.9@gmail.com)
@@ -96,7 +96,7 @@ const mrinal = {
   focus:   ["ERP Systems", "Backend-First Architecture", "Scalable APIs", "iOS Apps"],
   mindset: "Performance, security & business impact over hype",
   funFact: "Talks to rubber ducks. They debug better than Stack Overflow.",
-  openTo:  ["Remote Roles", "Freelance", "Long-Term Collaborations"],
+  openTo:  ["Remote Roles", "Long-Term Collaborations"],
 };
 ```
 
@@ -107,7 +107,7 @@ const mrinal = {
 
 | 🚀 Experience | 📦 Projects Shipped | ⚙️ Technologies | 🌍 Work Mode | 🐛 Bugs Squashed |
 |:---:|:---:|:---:|:---:|:---:|
-| **4+ Years** | **20+ Projects** | **15+** | **Remote / Freelance** | **∞ (and counting)** |
+| **4+ Years** | **20+ Projects** | **15+** | **Remote** | **∞ (and counting)** |
 
 </div>
 
@@ -555,7 +555,7 @@ Real-time disappearing messaging app with live location sharing.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0E0D,100:1a1230&height=60&section=header&text=%F0%9F%8F%A2%20The%20Journey%20So%20Far&fontSize=22&fontColor=6d5efc&fontAlignY=42&desc=where%20I've%20been&descSize=12&descAlignY=72&descColor=a78bfa" width="100%" alt="journey" />
 
 ```text
-🟣  [Insoft Solution](https://www.insoftsolution.com/) — Senior Full-Stack Developer   Nov 2025 – Present
+🟣  [Insoft Solution](https://www.insoftsolution.com/) — Senior Full-Stack Developer   Nov 2025 – Present (Currently Working)
     Taskvel ERP (Laravel 12 · https://samalconsultancy.com/taskvel-premium.php) + Biome Enterprises ([live](https://www.biomeenterprises.com/)) + Wispr iOS (Swift) - under development . + Samal Consultancy (https://samalconsultancy.com/)
 
 🟣  [BugRaptors](https://www.bugraptors.com/) (Seasia Group) — QA Engineer, Mobile Testing   [MONTH YEAR] – [MONTH YEAR]
