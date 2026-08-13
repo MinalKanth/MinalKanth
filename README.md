@@ -123,7 +123,7 @@ const mrinal = {
 | 🏗️ **Taskvel ERP** | 🔵 `IN PROGRESS` | Laravel 12 · PHP 8.3 · MySQL · Bootstrap 5 | [Demo →](https://samalconsultancy.com/taskvel-premium.php) |
 | 🌿 **Biome Enterprises** | 🟢 `LIVE + ITERATING` | HTML5 · CSS3 · JS · Bootstrap 5 · GSAP | [Live →](http://www.biomeenterprises.com/) |
 | 🎙️ **Wispr iOS** | 🔵 `IN PROGRESS` | Swift · UIKit · Laravel 12 · Firebase · FCM | [Demo →](https://tawoma.or.tz/minal) |
-| ✅ **Taskvel (JS)** | ✅ `COMPLETE` | Vanilla JS · HTML5 · CSS3 · Netlify | [Live →](https://taskvel.netlify.app/) |
+| ✅ **Samal Consultancy Website** | ✅ `DELIVERED` | HTML5 · CSS3 · JS · Bootstrap 5 | [Live →](https://www.samalconsultancy.com/) |
 
 </div>
 
@@ -435,6 +435,13 @@ Premium task manager + Pomodoro timer. Single-file vanilla JS app, live on Netli
 `Vanilla JS` · `HTML5` · `CSS3` · `Netlify`
 
 </td>
+<td width="50%" valign="top">
+
+#### ✅ [Samal Consultancy Website](https://www.samalconsultancy.com/) — *Delivered*
+Corporate website for Samal Consultancy — developed and delivered, now live in production.
+`HTML5` · `CSS3` · `JavaScript` · `Bootstrap 5`
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -550,6 +557,9 @@ Real-time disappearing messaging app with live location sharing.
 ```text
 🟣  [Insoft Solution](https://www.insoftsolution.com/) — Senior Full-Stack Developer   Nov 2025 – Present
     Taskvel ERP (Laravel 12 · https://samalconsultancy.com/taskvel-premium.php) + Biome Enterprises ([live](https://www.biomeenterprises.com/)) + Wispr iOS (Swift) - under development . + Samal Consultancy (https://samalconsultancy.com/)
+
+🟣  [BugRaptors](https://www.bugraptors.com/) (Seasia Group) — QA Engineer, Mobile Testing   [MONTH YEAR] – [MONTH YEAR]
+    Manual & automated testing across Android and iOS devices for enterprise clients — functional, regression, compatibility and UI/UX testing as part of a CMMI Level 5 QA division.
 
 🟣  Perfect Web Services — Mohali                           Apr 2025 – Present
     Custom Laravel APIs, full-stack React + Node.js builds & plugins.
