@@ -3,6 +3,118 @@
      Senior Full-Stack Developer · ERP Architect · iOS Builder
 ═══════════════════════════════════════════════════════════════ -->
 
+<svg width="800" height="200" viewBox="0 0 800 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradD" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29"/>
+      <stop offset="45%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+
+    <linearGradient id="borderGradD" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="50%" stop-color="#a663ff"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="textGradD" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="50%" stop-color="#FFF3B0"/>
+      <stop offset="100%" stop-color="#FFD700"/>
+    </linearGradient>
+
+    <linearGradient id="shineGradD" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <clipPath id="revealD">
+      <rect x="0" y="0" width="0" height="200">
+        <animate attributeName="width" from="0" to="800" dur="2.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="textAreaD">
+      <rect x="45" y="45" width="710" height="80"/>
+    </clipPath>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="200" rx="22" fill="url(#bgGradD)"/>
+
+  <!-- soft stars / particles -->
+  <g>
+    <circle cx="70" cy="30" r="1.6" fill="#FFD700" opacity="0.7">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="720" cy="45" r="1.8" fill="#ffffff" opacity="0.5">
+      <animate attributeName="opacity" values="0.1;0.8;0.1" dur="4.2s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="160" r="1.4" fill="#a663ff" opacity="0.6">
+      <animate attributeName="opacity" values="0.15;0.85;0.15" dur="3.8s" begin="1.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="170" r="1.5" fill="#FFD700" opacity="0.55">
+      <animate attributeName="opacity" values="0.2;0.9;0.2" dur="4.6s" begin="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="130" r="1.3" fill="#ffffff" opacity="0.5">
+      <animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.9s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="30" cy="120" r="1.7" fill="#a663ff" opacity="0.55">
+      <animate attributeName="opacity" values="0.15;0.8;0.15" dur="5s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- outer glow border -->
+  <rect x="3" y="3" width="794" height="194" rx="20" fill="none" stroke="url(#borderGradD)" stroke-width="2" opacity="0.9"/>
+  <rect x="1" y="1" width="798" height="198" rx="21" fill="none" stroke="#FFD700" stroke-width="0.6" opacity="0.25"/>
+
+  <!-- small gem icon -->
+  <g transform="translate(46,58)" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.2s" dur="0.8s" fill="freeze"/>
+    <path d="M0 6 L6 0 L18 0 L24 6 L12 22 Z" fill="url(#textGradD)" opacity="0.9"/>
+  </g>
+
+  <!-- typed name reveal -->
+  <g clip-path="url(#revealD)">
+    <text x="82" y="90" font-family="'Segoe UI', 'Trebuchet MS', sans-serif" font-size="42" font-weight="700" fill="url(#textGradD)">
+      Hi, I&#8217;m MINALKANTH
+    </text>
+  </g>
+
+  <!-- glossy shine sweep over name -->
+  <g clip-path="url(#textAreaD)">
+    <rect x="-120" y="30" width="90" height="100" fill="url(#shineGradD)" style="mix-blend-mode:screen">
+      <animate attributeName="x" from="-120" to="830" dur="3.6s" begin="2.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- blinking cursor -->
+  <rect x="474" y="60" width="3" height="34" fill="#FFD700" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.7;0.75;0.95;1" dur="0.9s" begin="2.2s" repeatCount="4"/>
+  </rect>
+
+  <!-- subtitle -->
+  <text x="84" y="128" font-family="'Segoe UI', sans-serif" font-size="17" fill="#c9c9d9" opacity="0" letter-spacing="0.3">
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="1s" fill="freeze"/>
+    Full-Stack Developer &#8226; Open Source Enthusiast &#8226; Building with passion
+  </text>
+
+  <!-- animated underline -->
+  <rect x="84" y="140" width="0" height="3" rx="1.5" fill="url(#textGradD)" opacity="0.9">
+    <animate attributeName="width" from="0" to="420" begin="3.2s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+  </rect>
+
+  <!-- bottom tagline -->
+  <text x="84" y="172" font-family="'Segoe UI', sans-serif" font-size="12" fill="#8a8aa3" opacity="0" letter-spacing="1.5">
+    <animate attributeName="opacity" from="0" to="1" begin="4s" dur="1s" fill="freeze"/>
+    WELCOME TO MY GITHUB PROFILE
+  </text>
+</svg>
+
+
 <!-- ─────────── ANIMATED HEADER ─────────── -->
 <a href="https://mrinal-devfolio.vercel.app/">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E0D,30:0D9488,70:6d5efc,100:a06dfc&height=260&section=header&text=Mrinal%20Kanth%20Padhi&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Full-Stack%20Developer%20%E2%80%A2%20ERP%20Architect%20%E2%80%A2%SaaS%20Builder&descSize=17&descAlignY=58" alt="header" />
